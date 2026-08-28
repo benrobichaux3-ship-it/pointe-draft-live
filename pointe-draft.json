@@ -1,1 +1,7 @@
-{"status":"test"}
+{
+  "league": "Pointe League",
+  "draft_id": "1395522511403220992",
+  "total_picks": 0,
+  "last_updated": "2026-08-28T19:49:13.287Z",
+  "picks": []
+}

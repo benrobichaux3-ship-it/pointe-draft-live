@@ -1,0 +1,966 @@
+{
+  "league_name": "Pointe League",
+  "league_id": "1395522507427024896",
+  "season": "2026",
+  "status": "pre_draft",
+  "synced_at": "2026-08-28T19:57:08.457Z",
+  "nfl_state": {
+    "week": 3,
+    "leg": 0,
+    "season": "2026",
+    "season_type": "pre",
+    "league_season": "2026",
+    "previous_season": "2025",
+    "season_start_date": "2026-08-06",
+    "display_week": 3,
+    "league_create_season": "2026",
+    "season_has_scores": true
+  },
+  "league": {
+    "name": "Pointe League",
+    "status": "pre_draft",
+    "metadata": {
+      "auto_continue": "on",
+      "imported_history": "true",
+      "imported_history_import_id": "1395522503958335488",
+      "imported_history_padded_teams": "0",
+      "imported_history_provider": "espn",
+      "imported_history_provider_league_id": "1890452789",
+      "imported_history_roster_identities": "{\"9\":{\"imported_team_name\":\"Sydney Sweeny has great jeantys\",\"imported_provider_roster_id\":\"9\"},\"8\":{\"imported_team_name\":\"Send em Mahomes\",\"imported_provider_roster_id\":\"8\"},\"7\":{\"imported_team_name\":\"Team Wood\",\"imported_provider_roster_id\":\"7\"},\"6\":{\"imported_team_name\":\"Naberhood Watch Program\",\"imported_provider_roster_id\":\"6\"},\"5\":{\"imported_team_name\":\"Dak Stack Attack\",\"imported_provider_roster_id\":\"5\"},\"4\":{\"imported_team_name\":\"ICE, JustOneNastyAgencyHonestly\",\"imported_provider_roster_id\":\"4\"},\"3\":{\"imported_team_name\":\"Philly Cheesesteaks\",\"imported_provider_roster_id\":\"3\"},\"2\":{\"imported_team_name\":\"My Pitiful Dull Busted Fantasy\",\"imported_provider_roster_id\":\"2\"},\"10\":{\"imported_team_name\":\"Team Chiasson\",\"imported_provider_roster_id\":\"10\"},\"1\":{\"imported_team_name\":\"Get'Njigba Wit It\",\"imported_provider_roster_id\":\"1\"}}",
+      "imported_history_source_num_teams": "10",
+      "keeper_deadline": "0"
+    },
+    "settings": {
+      "best_ball": 0,
+      "waiver_budget": 100,
+      "disable_adds": 0,
+      "divisions": 0,
+      "capacity_override": 0,
+      "waiver_bid_min": 0,
+      "taxi_deadline": 0,
+      "draft_rounds": 3,
+      "reserve_allow_na": 0,
+      "playoff_seed_type": 0,
+      "playoff_teams": 6,
+      "veto_votes_needed": 6,
+      "num_teams": 10,
+      "daily_waivers_hour": 0,
+      "playoff_type": 0,
+      "taxi_slots": 0,
+      "sub_start_time_eligibility": 0,
+      "daily_waivers_days": 5461,
+      "sub_lock_if_starter_active": 0,
+      "playoff_week_start": 14,
+      "waiver_clear_days": 2,
+      "reserve_allow_doubtful": 0,
+      "commissioner_direct_invite": 0,
+      "veto_auto_poll": 1,
+      "reserve_allow_dnr": 0,
+      "taxi_allow_vets": 0,
+      "waiver_day_of_week": 2,
+      "playoff_round_type": 1,
+      "reserve_allow_out": 0,
+      "reserve_allow_sus": 0,
+      "veto_show_votes": 0,
+      "trade_deadline": 10,
+      "taxi_years": 0,
+      "daily_waivers": 0,
+      "faab_suggestions": 0,
+      "disable_trades": 0,
+      "pick_trading": 0,
+      "type": 0,
+      "max_keepers": 1,
+      "waiver_type": 1,
+      "max_subs": 1,
+      "league_average_match": 0,
+      "trade_review_days": 2,
+      "bench_lock": 1,
+      "offseason_adds": 0,
+      "leg": 1,
+      "reserve_slots": 1,
+      "reserve_allow_cov": 0
+    },
+    "avatar": null,
+    "company_id": null,
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 462,
+    "last_message_id": "1399143712398790656",
+    "scoring_settings": {
+      "sack": 1,
+      "qb_hit": 0,
+      "fgm_40_49": 4,
+      "bonus_rec_te": 0,
+      "fgm_yds": 0,
+      "def_forced_punts": 0,
+      "bonus_rec_yd_100": 0,
+      "bonus_rush_yd_100": 0,
+      "pass_int": -1,
+      "fgmiss_50p": 0,
+      "pts_allow_0": 10,
+      "bonus_pass_yd_400": 0,
+      "pass_2pt": 2,
+      "rec_0_4": 0,
+      "yds_allow_450_499": 0,
+      "blk_kick_ret_yd": 0,
+      "st_td": 6,
+      "def_pr_yd": 0,
+      "rec_30_39": 0,
+      "sack_yd": 0,
+      "fgm_yds_over_30": 0,
+      "rec_td": 6,
+      "yds_allow_400_449": 0,
+      "tkl_ast": 0,
+      "rec_20_29": 0,
+      "idp_blk_kick": 0,
+      "fgm_30_39": 3,
+      "fgm_50_59": 5,
+      "idp_fum_ret_yd": 0,
+      "xpmiss": -1,
+      "rush_td_50p": 0,
+      "rush_td": 6,
+      "def_kr_yd": 0,
+      "bonus_fd_wr": 0,
+      "pts_allow": 0,
+      "def_4_and_stop": 0,
+      "fg_ret_yd": 0,
+      "idp_tkl": 0,
+      "yds_allow_550p": 0,
+      "pass_td_40p": 0,
+      "def_st_tkl_solo": 0,
+      "yds_allow_350_399": 0,
+      "fgm": 0,
+      "idp_sack_yd": 0,
+      "bonus_rush_rec_yd_100": 0,
+      "rec_2pt": 2,
+      "bonus_pass_cmp_25": 0,
+      "idp_tkl_loss": 0,
+      "rush_fd": 0,
+      "pass_int_td": 0,
+      "int_ret_yd": 0,
+      "idp_tkl_solo": 0,
+      "pass_att": 0,
+      "st_fum_rec": 1,
+      "fgmiss": -1,
+      "bonus_def_fum_td_50p": 0,
+      "ff": 1,
+      "idp_int": 0,
+      "bonus_sack_2p": 0,
+      "fgmiss_30_39": 0,
+      "rec": 0.5,
+      "yds_allow_200_299": 0,
+      "idp_int_ret_yd": 0,
+      "idp_safe": 0,
+      "pts_allow_14_20": 1,
+      "def_2pt": 0,
+      "fgm_0_19": 3,
+      "idp_def_td": 0,
+      "idp_pass_def_3p": 0,
+      "int": 2,
+      "def_st_fum_rec": 1,
+      "fum_lost": -2,
+      "pts_allow_1_6": 7,
+      "rec_fd": 0,
+      "kr_yd": 0,
+      "fgm_60p": 6,
+      "fgmiss_20_29": 0,
+      "rush_att": 0,
+      "st_tkl_solo": 0,
+      "yds_allow": 0,
+      "rec_5_9": 0,
+      "idp_sack": 0,
+      "fgm_20_29": 3,
+      "fgmiss_60p": 0,
+      "yds_allow_500_549": 0,
+      "pts_allow_21_27": 0,
+      "bonus_rec_wr": 0,
+      "bonus_pass_yd_300": 0,
+      "xpm": 1,
+      "pass_td_50p": 0,
+      "pass_sack": 0,
+      "rec_40p": 0,
+      "def_3_and_out": 0,
+      "fgmiss_50_59": 0,
+      "fgmiss_0_19": 0,
+      "pass_cmp": 0,
+      "tkl_loss": 0,
+      "rush_2pt": 2,
+      "def_pass_def": 0,
+      "yds_allow_300_349": 0,
+      "fum_rec": 2,
+      "idp_pass_def": 0,
+      "bonus_rush_td_qb": 0,
+      "rec_10_19": 0,
+      "bonus_rec_yd_200": 0,
+      "def_st_td": 6,
+      "tkl": 0,
+      "pass_cmp_40p": 0,
+      "fgm_50p": 0,
+      "bonus_tkl_10p": 0,
+      "def_td": 6,
+      "idp_fum_rec": 0,
+      "pass_fd": 0,
+      "rec_td_40p": 0,
+      "bonus_rush_yd_200": 0,
+      "safe": 2,
+      "pass_yd": 0.04,
+      "fgmiss_40_49": 0,
+      "rec_td_50p": 0,
+      "blk_kick": 2,
+      "pass_td": 4,
+      "tkl_solo": 0,
+      "bonus_rush_att_20": 0,
+      "yds_allow_100_199": 0,
+      "bonus_def_int_td_50p": 0,
+      "idp_qb_hit": 0,
+      "bonus_fd_qb": 0,
+      "rush_yd": 0.1,
+      "yds_allow_0_100": 0,
+      "bonus_rec_rb": 0,
+      "rush_40p": 0,
+      "pr_yd": 0,
+      "fum": 0,
+      "pts_allow_28_34": -1,
+      "pts_allow_35p": -4,
+      "bonus_rush_rec_yd_200": 0,
+      "fum_rec_td": 6,
+      "rec_yd": 0.1,
+      "rush_td_40p": 0,
+      "bonus_fd_te": 0,
+      "bonus_fd_rb": 0,
+      "fum_ret_yd": 0,
+      "def_st_ff": 1,
+      "pass_inc": 0,
+      "pts_allow_7_13": 4,
+      "idp_ff": 0,
+      "st_ff": 1,
+      "idp_tkl_ast": 0
+    },
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
+    "last_message_attachment": null,
+    "last_message_text_map": null,
+    "last_message_time": 1787944365170,
+    "last_pinned_message_id": null,
+    "last_read_id": null,
+    "draft_id": "1395522511403220992",
+    "league_id": "1395522507427024896",
+    "previous_league_id": null,
+    "group_id": null,
+    "bracket_id": null,
+    "roster_positions": [
+      "QB",
+      "RB",
+      "RB",
+      "WR",
+      "WR",
+      "TE",
+      "FLEX",
+      "FLEX",
+      "K",
+      "DEF",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN"
+    ],
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
+    "total_rosters": 10
+  },
+  "users": [
+    {
+      "avatar": "f0edbf4278f53f9425db175073df6584",
+      "display_name": "jjambon",
+      "is_bot": false,
+      "is_owner": null,
+      "league_id": "1395522507427024896",
+      "metadata": {
+        "allow_pn": "on",
+        "mention_pn": "on"
+      },
+      "settings": null,
+      "user_id": "755957313994764288"
+    },
+    {
+      "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+      "display_name": "sbouvi15",
+      "is_bot": false,
+      "is_owner": null,
+      "league_id": "1395522507427024896",
+      "metadata": {
+        "allow_pn": "on",
+        "mention_pn": "on"
+      },
+      "settings": null,
+      "user_id": "870464495158480896"
+    },
+    {
+      "avatar": "82aec8e811b839b8ec25d7b458afd57b",
+      "display_name": "nickg419",
+      "is_bot": false,
+      "is_owner": null,
+      "league_id": "1395522507427024896",
+      "metadata": {
+        "allow_pn": "on",
+        "mention_pn": "on"
+      },
+      "settings": null,
+      "user_id": "978083733284720640"
+    },
+    {
+      "avatar": "e7af4deab0289b4f5505646424895246",
+      "display_name": "Andrew17777",
+      "is_bot": false,
+      "is_owner": true,
+      "league_id": "1395522507427024896",
+      "metadata": {
+        "allow_pn": "on",
+        "mention_pn": "on"
+      },
+      "settings": null,
+      "user_id": "1126024356972437504"
+    },
+    {
+      "avatar": "4f4090e5e9c3941414db40a871e3e909",
+      "display_name": "Jonahchiasson",
+      "is_bot": false,
+      "is_owner": null,
+      "league_id": "1395522507427024896",
+      "metadata": {
+        "allow_pn": "on",
+        "mention_pn": "on"
+      },
+      "settings": null,
+      "user_id": "1133935766251597824"
+    },
+    {
+      "avatar": "4f4090e5e9c3941414db40a871e3e909",
+      "display_name": "IsaacCallais",
+      "is_bot": false,
+      "is_owner": null,
+      "league_id": "1395522507427024896",
+      "metadata": {
+        "allow_pn": "on",
+        "mention_pn": "on"
+      },
+      "settings": null,
+      "user_id": "1137571098905919488"
+    },
+    {
+      "avatar": "51385ba57cd089261f6de9ce483b8716",
+      "display_name": "lindseywould",
+      "is_bot": false,
+      "is_owner": null,
+      "league_id": "1395522507427024896",
+      "metadata": {
+        "allow_pn": "on",
+        "mention_pn": "on"
+      },
+      "settings": null,
+      "user_id": "1303442724602523648"
+    },
+    {
+      "avatar": "578c6b253dd7b4bab45382e1af102204",
+      "display_name": "justintcallais",
+      "is_bot": false,
+      "is_owner": null,
+      "league_id": "1395522507427024896",
+      "metadata": {
+        "allow_pn": "on",
+        "mention_pn": "on"
+      },
+      "settings": null,
+      "user_id": "1393702141796814848"
+    },
+    {
+      "avatar": "d55d1f7075eda01948318de4af616075",
+      "display_name": "benrobichaux",
+      "is_bot": false,
+      "is_owner": null,
+      "league_id": "1395522507427024896",
+      "metadata": {
+        "allow_pn": "on",
+        "mention_pn": "on"
+      },
+      "settings": null,
+      "user_id": "1395850093722112000"
+    },
+    {
+      "avatar": "578c6b253dd7b4bab45382e1af102204",
+      "display_name": "Reen69",
+      "is_bot": false,
+      "is_owner": null,
+      "league_id": "1395522507427024896",
+      "metadata": {
+        "allow_pn": "on",
+        "allow_sms": "on",
+        "mention_pn": "on"
+      },
+      "settings": null,
+      "user_id": "1395880798690754560"
+    }
+  ],
+  "rosters": [
+    {
+      "co_owners": null,
+      "keepers": [],
+      "league_id": "1395522507427024896",
+      "metadata": null,
+      "owner_id": "1126024356972437504",
+      "player_map": null,
+      "players": [],
+      "reserve": [],
+      "roster_id": 1,
+      "settings": {
+        "fpts": 0,
+        "fpts_decimal": 0,
+        "losses": 0,
+        "ties": 0,
+        "total_moves": 0,
+        "waiver_budget_used": 0,
+        "waiver_position": 10,
+        "wins": 0
+      },
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "taxi": []
+    },
+    {
+      "co_owners": null,
+      "keepers": [],
+      "league_id": "1395522507427024896",
+      "metadata": null,
+      "owner_id": "978083733284720640",
+      "player_map": null,
+      "players": [],
+      "reserve": [],
+      "roster_id": 2,
+      "settings": {
+        "fpts": 0,
+        "fpts_decimal": 0,
+        "losses": 0,
+        "ties": 0,
+        "total_moves": 0,
+        "waiver_budget_used": 0,
+        "waiver_position": 9,
+        "wins": 0
+      },
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "taxi": []
+    },
+    {
+      "co_owners": null,
+      "keepers": [],
+      "league_id": "1395522507427024896",
+      "metadata": null,
+      "owner_id": "1395880798690754560",
+      "player_map": null,
+      "players": [],
+      "reserve": [],
+      "roster_id": 3,
+      "settings": {
+        "fpts": 0,
+        "fpts_decimal": 0,
+        "losses": 0,
+        "ties": 0,
+        "total_moves": 0,
+        "waiver_budget_used": 0,
+        "waiver_position": 8,
+        "wins": 0
+      },
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "taxi": []
+    },
+    {
+      "co_owners": null,
+      "keepers": [],
+      "league_id": "1395522507427024896",
+      "metadata": null,
+      "owner_id": "1137571098905919488",
+      "player_map": null,
+      "players": [],
+      "reserve": [],
+      "roster_id": 4,
+      "settings": {
+        "fpts": 0,
+        "fpts_decimal": 0,
+        "losses": 0,
+        "ties": 0,
+        "total_moves": 0,
+        "waiver_budget_used": 0,
+        "waiver_position": 7,
+        "wins": 0
+      },
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "taxi": []
+    },
+    {
+      "co_owners": null,
+      "keepers": [],
+      "league_id": "1395522507427024896",
+      "metadata": null,
+      "owner_id": "755957313994764288",
+      "player_map": null,
+      "players": [],
+      "reserve": [],
+      "roster_id": 5,
+      "settings": {
+        "fpts": 0,
+        "fpts_decimal": 0,
+        "losses": 0,
+        "ties": 0,
+        "total_moves": 0,
+        "waiver_budget_used": 0,
+        "waiver_position": 6,
+        "wins": 0
+      },
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "taxi": []
+    },
+    {
+      "co_owners": null,
+      "keepers": [],
+      "league_id": "1395522507427024896",
+      "metadata": null,
+      "owner_id": "1393702141796814848",
+      "player_map": null,
+      "players": [],
+      "reserve": [],
+      "roster_id": 6,
+      "settings": {
+        "fpts": 0,
+        "fpts_decimal": 0,
+        "losses": 0,
+        "ties": 0,
+        "total_moves": 0,
+        "waiver_budget_used": 0,
+        "waiver_position": 5,
+        "wins": 0
+      },
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "taxi": []
+    },
+    {
+      "co_owners": null,
+      "keepers": [],
+      "league_id": "1395522507427024896",
+      "metadata": null,
+      "owner_id": "1303442724602523648",
+      "player_map": null,
+      "players": [],
+      "reserve": [],
+      "roster_id": 7,
+      "settings": {
+        "fpts": 0,
+        "fpts_decimal": 0,
+        "losses": 0,
+        "ties": 0,
+        "total_moves": 0,
+        "waiver_budget_used": 0,
+        "waiver_position": 4,
+        "wins": 0
+      },
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "taxi": []
+    },
+    {
+      "co_owners": null,
+      "keepers": [],
+      "league_id": "1395522507427024896",
+      "metadata": null,
+      "owner_id": "1395850093722112000",
+      "player_map": null,
+      "players": [],
+      "reserve": [],
+      "roster_id": 8,
+      "settings": {
+        "fpts": 0,
+        "fpts_decimal": 0,
+        "losses": 0,
+        "ties": 0,
+        "total_moves": 0,
+        "waiver_budget_used": 0,
+        "waiver_position": 3,
+        "wins": 0
+      },
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "taxi": []
+    },
+    {
+      "co_owners": null,
+      "keepers": [],
+      "league_id": "1395522507427024896",
+      "metadata": null,
+      "owner_id": "870464495158480896",
+      "player_map": null,
+      "players": [],
+      "reserve": [],
+      "roster_id": 9,
+      "settings": {
+        "fpts": 0,
+        "fpts_decimal": 0,
+        "losses": 0,
+        "ties": 0,
+        "total_moves": 0,
+        "waiver_budget_used": 0,
+        "waiver_position": 2,
+        "wins": 0
+      },
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "taxi": []
+    },
+    {
+      "co_owners": null,
+      "keepers": [],
+      "league_id": "1395522507427024896",
+      "metadata": null,
+      "owner_id": "1133935766251597824",
+      "player_map": null,
+      "players": [],
+      "reserve": [],
+      "roster_id": 10,
+      "settings": {
+        "fpts": 0,
+        "fpts_decimal": 0,
+        "losses": 0,
+        "ties": 0,
+        "total_moves": 0,
+        "waiver_budget_used": 0,
+        "waiver_position": 1,
+        "wins": 0
+      },
+      "starters": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "taxi": []
+    }
+  ],
+  "draft": {
+    "draft_id": "1395522511403220992",
+    "drafts": [
+      {
+        "created": 1787081003574,
+        "creators": [
+          "1126024356972437504"
+        ],
+        "draft_id": "1395522511403220992",
+        "draft_order": {
+          "1126024356972437504": 8,
+          "1133935766251597824": 2,
+          "1137571098905919488": 3,
+          "1303442724602523648": 4,
+          "1393702141796814848": 10,
+          "1395850093722112000": 9,
+          "1395880798690754560": 7,
+          "755957313994764288": 1,
+          "870464495158480896": 6,
+          "978083733284720640": 5
+        },
+        "last_message_id": "1395522511403220992",
+        "last_message_time": 1787081003574,
+        "last_picked": 1787083344466,
+        "league_id": "1395522507427024896",
+        "metadata": {
+          "league_type": "0",
+          "name": "Pointe League",
+          "scoring_type": "half_ppr",
+          "show_team_names": "0"
+        },
+        "season": "2026",
+        "season_type": "regular",
+        "settings": {
+          "alpha_sort": 0,
+          "autopause_enabled": 0,
+          "autopause_end_time": 900,
+          "autopause_start_time": 180,
+          "autostart": 0,
+          "cpu_autopick": 1,
+          "enforce_position_limits": 1,
+          "nomination_timer": 60,
+          "pick_timer": 60,
+          "player_type": 0,
+          "reversal_round": 0,
+          "rounds": 17,
+          "slots_bn": 7,
+          "slots_def": 1,
+          "slots_flex": 2,
+          "slots_k": 1,
+          "slots_qb": 1,
+          "slots_rb": 2,
+          "slots_te": 1,
+          "slots_wr": 2,
+          "teams": 10
+        },
+        "sport": "nfl",
+        "start_time": 1788227100000,
+        "status": "pre_draft",
+        "type": "snake"
+      }
+    ],
+    "total_picks": 0,
+    "picks": []
+  },
+  "matchups": [
+    {
+      "week": 1,
+      "data": []
+    },
+    {
+      "week": 2,
+      "data": []
+    },
+    {
+      "week": 3,
+      "data": []
+    },
+    {
+      "week": 4,
+      "data": []
+    },
+    {
+      "week": 5,
+      "data": []
+    },
+    {
+      "week": 6,
+      "data": []
+    },
+    {
+      "week": 7,
+      "data": []
+    },
+    {
+      "week": 8,
+      "data": []
+    },
+    {
+      "week": 9,
+      "data": []
+    },
+    {
+      "week": 10,
+      "data": []
+    },
+    {
+      "week": 11,
+      "data": []
+    },
+    {
+      "week": 12,
+      "data": []
+    },
+    {
+      "week": 13,
+      "data": []
+    },
+    {
+      "week": 14,
+      "data": []
+    },
+    {
+      "week": 15,
+      "data": []
+    },
+    {
+      "week": 16,
+      "data": []
+    },
+    {
+      "week": 17,
+      "data": []
+    },
+    {
+      "week": 18,
+      "data": []
+    }
+  ],
+  "transactions": [
+    {
+      "week": 1,
+      "data": []
+    },
+    {
+      "week": 2,
+      "data": []
+    },
+    {
+      "week": 3,
+      "data": []
+    },
+    {
+      "week": 4,
+      "data": []
+    },
+    {
+      "week": 5,
+      "data": []
+    },
+    {
+      "week": 6,
+      "data": []
+    },
+    {
+      "week": 7,
+      "data": []
+    },
+    {
+      "week": 8,
+      "data": []
+    },
+    {
+      "week": 9,
+      "data": []
+    },
+    {
+      "week": 10,
+      "data": []
+    },
+    {
+      "week": 11,
+      "data": []
+    },
+    {
+      "week": 12,
+      "data": []
+    },
+    {
+      "week": 13,
+      "data": []
+    },
+    {
+      "week": 14,
+      "data": []
+    },
+    {
+      "week": 15,
+      "data": []
+    },
+    {
+      "week": 16,
+      "data": []
+    },
+    {
+      "week": 17,
+      "data": []
+    },
+    {
+      "week": 18,
+      "data": []
+    }
+  ]
+}

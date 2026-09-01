@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T01:49:22.211Z",
+  "synced_at": "2026-09-01T01:50:27.189Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 7,
+    "total_picks": 5,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -944,58 +944,6 @@
         "player_id": "8138",
         "reactions": null,
         "roster_id": 2,
-        "round": 1
-      },
-      {
-        "draft_id": "1395522511403220992",
-        "draft_slot": 6,
-        "is_keeper": null,
-        "metadata": {
-          "first_name": "Puka",
-          "injury_status": "Questionable",
-          "last_name": "Nacua",
-          "news_updated": "1788225613136",
-          "number": "12",
-          "player_id": "9493",
-          "position": "WR",
-          "sport": "nfl",
-          "status": "Active",
-          "team": "LAR",
-          "team_abbr": "",
-          "team_changed_at": "",
-          "years_exp": "3"
-        },
-        "pick_no": 6,
-        "picked_by": "870464495158480896",
-        "player_id": "9493",
-        "reactions": null,
-        "roster_id": 9,
-        "round": 1
-      },
-      {
-        "draft_id": "1395522511403220992",
-        "draft_slot": 7,
-        "is_keeper": null,
-        "metadata": {
-          "first_name": "Saquon",
-          "injury_status": "",
-          "last_name": "Barkley",
-          "news_updated": "1787968240724",
-          "number": "26",
-          "player_id": "4866",
-          "position": "RB",
-          "sport": "nfl",
-          "status": "Active",
-          "team": "PHI",
-          "team_abbr": "",
-          "team_changed_at": "",
-          "years_exp": "8"
-        },
-        "pick_no": 7,
-        "picked_by": "1395880798690754560",
-        "player_id": "4866",
-        "reactions": null,
-        "roster_id": 3,
         "round": 1
       }
     ]

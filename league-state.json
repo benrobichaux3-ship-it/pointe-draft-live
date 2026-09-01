@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T02:24:27.156Z",
+  "synced_at": "2026-09-01T02:26:27.154Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 70,
+    "total_picks": 72,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -2635,6 +2635,58 @@
         "reactions": null,
         "roster_id": 6,
         "round": 7
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 10,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Brian",
+          "injury_status": "Questionable",
+          "last_name": "Thomas",
+          "news_updated": "1787753146553",
+          "number": "7",
+          "player_id": "11631",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "JAX",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "2"
+        },
+        "pick_no": 71,
+        "picked_by": "1393702141796814848",
+        "player_id": "11631",
+        "reactions": null,
+        "roster_id": 6,
+        "round": 8
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 9,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "TreVeyon",
+          "injury_status": "Questionable",
+          "last_name": "Henderson",
+          "news_updated": "1788202212598",
+          "number": "32",
+          "player_id": "12529",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "NE",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "1"
+        },
+        "pick_no": 72,
+        "picked_by": "1395850093722112000",
+        "player_id": "12529",
+        "reactions": null,
+        "roster_id": 8,
+        "round": 8
       }
     ]
   },

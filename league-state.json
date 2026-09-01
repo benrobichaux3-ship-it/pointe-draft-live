@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T02:56:27.154Z",
+  "synced_at": "2026-09-01T02:58:27.174Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -773,9 +773,9 @@
           "870464495158480896": 6,
           "978083733284720640": 5
         },
-        "last_message_id": "1400346542912585728",
-        "last_message_time": 1788231142314,
-        "last_picked": 1788231142301,
+        "last_message_id": "1400347561339928576",
+        "last_message_time": 1788231385125,
+        "last_picked": 1788231385113,
         "league_id": "1395522507427024896",
         "metadata": {
           "league_type": "0",
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 133,
+    "total_picks": 138,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -4272,6 +4272,136 @@
         "player_id": "11646",
         "reactions": null,
         "roster_id": 1,
+        "round": 14
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 7,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Aaron",
+          "injury_status": "",
+          "last_name": "Jones",
+          "news_updated": "1787537734531",
+          "number": "33",
+          "player_id": "4199",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "MIN",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "9"
+        },
+        "pick_no": 134,
+        "picked_by": "1395880798690754560",
+        "player_id": "4199",
+        "reactions": null,
+        "roster_id": 3,
+        "round": 14
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 6,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Zach",
+          "injury_status": "PUP",
+          "last_name": "Charbonnet",
+          "news_updated": "1788209112588",
+          "number": "26",
+          "player_id": "9753",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "SEA",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "3"
+        },
+        "pick_no": 135,
+        "picked_by": "870464495158480896",
+        "player_id": "9753",
+        "reactions": null,
+        "roster_id": 9,
+        "round": 14
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 5,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Jonah",
+          "injury_status": "",
+          "last_name": "Coleman",
+          "news_updated": "1787937927310",
+          "number": "20",
+          "player_id": "13345",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "DEN",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "0"
+        },
+        "pick_no": 136,
+        "picked_by": "978083733284720640",
+        "player_id": "13345",
+        "reactions": null,
+        "roster_id": 2,
+        "round": 14
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 4,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Rashid",
+          "injury_status": "",
+          "last_name": "Shaheed",
+          "news_updated": "1787538034697",
+          "number": "22",
+          "player_id": "8676",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "SEA",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "4"
+        },
+        "pick_no": 137,
+        "picked_by": "1303442724602523648",
+        "player_id": "8676",
+        "reactions": null,
+        "roster_id": 7,
+        "round": 14
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 3,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Romeo",
+          "injury_status": "",
+          "last_name": "Doubs",
+          "news_updated": "1787967041153",
+          "number": "87",
+          "player_id": "8121",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "NE",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "4"
+        },
+        "pick_no": 138,
+        "picked_by": "1137571098905919488",
+        "player_id": "8121",
+        "reactions": null,
+        "roster_id": 4,
         "round": 14
       }
     ]

@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T01:58:37.148Z",
+  "synced_at": "2026-09-01T02:00:03.355Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 25,
+    "total_picks": 28,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -1464,6 +1464,84 @@
         "player_id": "8130",
         "reactions": null,
         "roster_id": 2,
+        "round": 3
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 6,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Chris",
+          "injury_status": "",
+          "last_name": "Olave",
+          "news_updated": "1788187811227",
+          "number": "12",
+          "player_id": "8144",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "NO",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "4"
+        },
+        "pick_no": 26,
+        "picked_by": "870464495158480896",
+        "player_id": "8144",
+        "reactions": null,
+        "roster_id": 9,
+        "round": 3
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 7,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Breece",
+          "injury_status": "Questionable",
+          "last_name": "Hall",
+          "news_updated": "1788064251431",
+          "number": "20",
+          "player_id": "8155",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "NYJ",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "4"
+        },
+        "pick_no": 27,
+        "picked_by": "1395880798690754560",
+        "player_id": "8155",
+        "reactions": null,
+        "roster_id": 3,
+        "round": 3
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 8,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Josh",
+          "injury_status": "",
+          "last_name": "Allen",
+          "news_updated": "1787676047663",
+          "number": "17",
+          "player_id": "4984",
+          "position": "QB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "BUF",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "8"
+        },
+        "pick_no": 28,
+        "picked_by": "1126024356972437504",
+        "player_id": "4984",
+        "reactions": null,
+        "roster_id": 1,
         "round": 3
       }
     ]

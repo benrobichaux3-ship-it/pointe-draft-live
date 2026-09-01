@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T02:26:27.154Z",
+  "synced_at": "2026-09-01T02:28:27.183Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -773,9 +773,9 @@
           "870464495158480896": 6,
           "978083733284720640": 5
         },
-        "last_message_id": "1400338998521495552",
-        "last_message_time": 1788229343589,
-        "last_picked": 1788229343577,
+        "last_message_id": "1400339897964867584",
+        "last_message_time": 1788229558034,
+        "last_picked": 1788229558021,
         "league_id": "1395522507427024896",
         "metadata": {
           "league_type": "0",
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 72,
+    "total_picks": 76,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -2686,6 +2686,110 @@
         "player_id": "12529",
         "reactions": null,
         "roster_id": 8,
+        "round": 8
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 8,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Rhamondre",
+          "injury_status": "",
+          "last_name": "Stevenson",
+          "news_updated": "1787964940957",
+          "number": "38",
+          "player_id": "7611",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "NE",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "5"
+        },
+        "pick_no": 73,
+        "picked_by": "1126024356972437504",
+        "player_id": "7611",
+        "reactions": null,
+        "roster_id": 1,
+        "round": 8
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 7,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Rico",
+          "injury_status": "",
+          "last_name": "Dowdle",
+          "news_updated": "1788206713287",
+          "number": "13",
+          "player_id": "7021",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "PIT",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "6"
+        },
+        "pick_no": 74,
+        "picked_by": "1395880798690754560",
+        "player_id": "7021",
+        "reactions": null,
+        "roster_id": 3,
+        "round": 8
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 6,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Jaylen",
+          "injury_status": "",
+          "last_name": "Warren",
+          "news_updated": "1787378130940",
+          "number": "30",
+          "player_id": "8228",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "PIT",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "4"
+        },
+        "pick_no": 75,
+        "picked_by": "870464495158480896",
+        "player_id": "8228",
+        "reactions": null,
+        "roster_id": 9,
+        "round": 8
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 5,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Justin",
+          "injury_status": "",
+          "last_name": "Herbert",
+          "news_updated": "1787925325728",
+          "number": "10",
+          "player_id": "6797",
+          "position": "QB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "LAC",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "6"
+        },
+        "pick_no": 76,
+        "picked_by": "978083733284720640",
+        "player_id": "6797",
+        "reactions": null,
+        "roster_id": 2,
         "round": 8
       }
     ]

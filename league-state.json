@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T02:10:27.155Z",
+  "synced_at": "2026-09-01T02:12:28.010Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -21,7 +21,7 @@
     "status": "drafting",
     "metadata": {
       "auto_continue": "on",
-      "current_pick_no": "36",
+      "current_pick_no": "49",
       "imported_history": "true",
       "imported_history_import_id": "1395522503958335488",
       "imported_history_padded_teams": "0",
@@ -30,7 +30,7 @@
       "imported_history_roster_identities": "{\"9\":{\"imported_team_name\":\"Sydney Sweeny has great jeantys\",\"imported_provider_roster_id\":\"9\"},\"8\":{\"imported_team_name\":\"Send em Mahomes\",\"imported_provider_roster_id\":\"8\"},\"7\":{\"imported_team_name\":\"Team Wood\",\"imported_provider_roster_id\":\"7\"},\"6\":{\"imported_team_name\":\"Naberhood Watch Program\",\"imported_provider_roster_id\":\"6\"},\"5\":{\"imported_team_name\":\"Dak Stack Attack\",\"imported_provider_roster_id\":\"5\"},\"4\":{\"imported_team_name\":\"ICE, JustOneNastyAgencyHonestly\",\"imported_provider_roster_id\":\"4\"},\"3\":{\"imported_team_name\":\"Philly Cheesesteaks\",\"imported_provider_roster_id\":\"3\"},\"2\":{\"imported_team_name\":\"My Pitiful Dull Busted Fantasy\",\"imported_provider_roster_id\":\"2\"},\"10\":{\"imported_team_name\":\"Team Chiasson\",\"imported_provider_roster_id\":\"10\"},\"1\":{\"imported_team_name\":\"Get'Njigba Wit It\",\"imported_provider_roster_id\":\"1\"}}",
       "imported_history_source_num_teams": "10",
       "keeper_deadline": "0",
-      "on_the_clock_user_id": "978083733284720640"
+      "on_the_clock_user_id": "1395850093722112000"
     },
     "settings": {
       "best_ball": 0,
@@ -84,6 +84,11 @@
     },
     "avatar": null,
     "company_id": null,
+    "shard": 462,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1399143712398790656",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -234,12 +239,6 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 462,
-    "sport": "nfl",
-    "last_message_id": "1399143712398790656",
-    "draft_id": "1395522511403220992",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -248,14 +247,13 @@
     "last_message_text_map": null,
     "last_message_time": 1787944365170,
     "last_pinned_message_id": null,
+    "draft_id": "1395522511403220992",
     "last_read_id": null,
     "league_id": "1395522507427024896",
     "previous_league_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -275,6 +273,8 @@
       "BN",
       "BN"
     ],
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 46,
+    "total_picks": 48,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -2010,6 +2010,58 @@
         "player_id": "12517",
         "reactions": null,
         "roster_id": 9,
+        "round": 5
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 7,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Bo",
+          "injury_status": "",
+          "last_name": "Nix",
+          "news_updated": "1787405722677",
+          "number": "10",
+          "player_id": "11563",
+          "position": "QB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "DEN",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "2"
+        },
+        "pick_no": 47,
+        "picked_by": "1395880798690754560",
+        "player_id": "11563",
+        "reactions": null,
+        "roster_id": 3,
+        "round": 5
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 8,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Garrett",
+          "injury_status": "",
+          "last_name": "Wilson",
+          "news_updated": "1788032148248",
+          "number": "5",
+          "player_id": "8146",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "NYJ",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "4"
+        },
+        "pick_no": 48,
+        "picked_by": "1126024356972437504",
+        "player_id": "8146",
+        "reactions": null,
+        "roster_id": 1,
         "round": 5
       }
     ]

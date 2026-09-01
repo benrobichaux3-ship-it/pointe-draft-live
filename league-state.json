@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T02:46:27.176Z",
+  "synced_at": "2026-09-01T02:48:27.146Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -21,7 +21,7 @@
     "status": "drafting",
     "metadata": {
       "auto_continue": "on",
-      "current_pick_no": "105",
+      "current_pick_no": "118",
       "imported_history": "true",
       "imported_history_import_id": "1395522503958335488",
       "imported_history_padded_teams": "0",
@@ -30,7 +30,7 @@
       "imported_history_roster_identities": "{\"9\":{\"imported_team_name\":\"Sydney Sweeny has great jeantys\",\"imported_provider_roster_id\":\"9\"},\"8\":{\"imported_team_name\":\"Send em Mahomes\",\"imported_provider_roster_id\":\"8\"},\"7\":{\"imported_team_name\":\"Team Wood\",\"imported_provider_roster_id\":\"7\"},\"6\":{\"imported_team_name\":\"Naberhood Watch Program\",\"imported_provider_roster_id\":\"6\"},\"5\":{\"imported_team_name\":\"Dak Stack Attack\",\"imported_provider_roster_id\":\"5\"},\"4\":{\"imported_team_name\":\"ICE, JustOneNastyAgencyHonestly\",\"imported_provider_roster_id\":\"4\"},\"3\":{\"imported_team_name\":\"Philly Cheesesteaks\",\"imported_provider_roster_id\":\"3\"},\"2\":{\"imported_team_name\":\"My Pitiful Dull Busted Fantasy\",\"imported_provider_roster_id\":\"2\"},\"10\":{\"imported_team_name\":\"Team Chiasson\",\"imported_provider_roster_id\":\"10\"},\"1\":{\"imported_team_name\":\"Get'Njigba Wit It\",\"imported_provider_roster_id\":\"1\"}}",
       "imported_history_source_num_teams": "10",
       "keeper_deadline": "0",
-      "on_the_clock_user_id": "978083733284720640"
+      "on_the_clock_user_id": "1137571098905919488"
     },
     "settings": {
       "best_ball": 0,
@@ -84,6 +84,11 @@
     },
     "avatar": null,
     "company_id": null,
+    "shard": 462,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1399143712398790656",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -234,11 +239,6 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 462,
-    "sport": "nfl",
-    "last_message_id": "1399143712398790656",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -251,11 +251,9 @@
     "draft_id": "1395522511403220992",
     "league_id": "1395522507427024896",
     "previous_league_id": null,
-    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -275,6 +273,8 @@
       "BN",
       "BN"
     ],
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -773,9 +773,9 @@
           "870464495158480896": 6,
           "978083733284720640": 5
         },
-        "last_message_id": "1400344019522822144",
-        "last_message_time": 1788230540689,
-        "last_picked": 1788230540677,
+        "last_message_id": "1400344891082424320",
+        "last_message_time": 1788230748486,
+        "last_picked": 1788230748473,
         "league_id": "1395522507427024896",
         "metadata": {
           "league_type": "0",
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 111,
+    "total_picks": 117,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -3700,6 +3700,162 @@
         "player_id": "SEA",
         "reactions": null,
         "roster_id": 6,
+        "round": 12
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 9,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Denver",
+          "injury_status": "",
+          "last_name": "Broncos",
+          "news_updated": "",
+          "number": "",
+          "player_id": "DEN",
+          "position": "DEF",
+          "sport": "nfl",
+          "status": "",
+          "team": "DEN",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": ""
+        },
+        "pick_no": 112,
+        "picked_by": "1395850093722112000",
+        "player_id": "DEN",
+        "reactions": null,
+        "roster_id": 8,
+        "round": 12
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 8,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Jacory",
+          "injury_status": "Questionable",
+          "last_name": "Croskey-Merritt",
+          "news_updated": "1788213311417",
+          "number": "22",
+          "player_id": "12533",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "WAS",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "1"
+        },
+        "pick_no": 113,
+        "picked_by": "1126024356972437504",
+        "player_id": "12533",
+        "reactions": null,
+        "roster_id": 1,
+        "round": 12
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 7,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Baltimore",
+          "injury_status": "",
+          "last_name": "Ravens",
+          "news_updated": "",
+          "number": "",
+          "player_id": "BAL",
+          "position": "DEF",
+          "sport": "nfl",
+          "status": "",
+          "team": "BAL",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": ""
+        },
+        "pick_no": 114,
+        "picked_by": "1395880798690754560",
+        "player_id": "BAL",
+        "reactions": null,
+        "roster_id": 3,
+        "round": 12
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 6,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Brandon",
+          "injury_status": "",
+          "last_name": "Aubrey",
+          "news_updated": "1787974542490",
+          "number": "17",
+          "player_id": "11533",
+          "position": "K",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "DAL",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "3"
+        },
+        "pick_no": 115,
+        "picked_by": "870464495158480896",
+        "player_id": "11533",
+        "reactions": null,
+        "roster_id": 9,
+        "round": 12
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 5,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "De'Zhaun",
+          "injury_status": "Questionable",
+          "last_name": "Stribling",
+          "news_updated": "1787883955561",
+          "number": "15",
+          "player_id": "13417",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "SF",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "0"
+        },
+        "pick_no": 116,
+        "picked_by": "978083733284720640",
+        "player_id": "13417",
+        "reactions": null,
+        "roster_id": 2,
+        "round": 12
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 4,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Philadelphia",
+          "injury_status": "",
+          "last_name": "Eagles",
+          "news_updated": "",
+          "number": "",
+          "player_id": "PHI",
+          "position": "DEF",
+          "sport": "nfl",
+          "status": "",
+          "team": "PHI",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": ""
+        },
+        "pick_no": 117,
+        "picked_by": "1303442724602523648",
+        "player_id": "PHI",
+        "reactions": null,
+        "roster_id": 7,
         "round": 12
       }
     ]

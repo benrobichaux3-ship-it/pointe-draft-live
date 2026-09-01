@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T02:50:27.165Z",
+  "synced_at": "2026-09-01T02:52:27.167Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -773,9 +773,9 @@
           "870464495158480896": 6,
           "978083733284720640": 5
         },
-        "last_message_id": "1400344891082424320",
-        "last_message_time": 1788230748486,
-        "last_picked": 1788230748473,
+        "last_message_id": "1400345820112355328",
+        "last_message_time": 1788230969984,
+        "last_picked": 1788230969971,
         "league_id": "1395522507427024896",
         "metadata": {
           "league_type": "0",
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 123,
+    "total_picks": 127,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -4012,6 +4012,110 @@
         "player_id": "13293",
         "reactions": null,
         "roster_id": 4,
+        "round": 13
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 4,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Deebo",
+          "injury_status": "",
+          "last_name": "Samuel",
+          "news_updated": "1787971541293",
+          "number": "19",
+          "player_id": "5872",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "SF",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "7"
+        },
+        "pick_no": 124,
+        "picked_by": "1303442724602523648",
+        "player_id": "5872",
+        "reactions": null,
+        "roster_id": 7,
+        "round": 13
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 5,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Minnesota",
+          "injury_status": "",
+          "last_name": "Vikings",
+          "news_updated": "",
+          "number": "",
+          "player_id": "MIN",
+          "position": "DEF",
+          "sport": "nfl",
+          "status": "",
+          "team": "MIN",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": ""
+        },
+        "pick_no": 125,
+        "picked_by": "978083733284720640",
+        "player_id": "MIN",
+        "reactions": null,
+        "roster_id": 2,
+        "round": 13
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 6,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Matthew",
+          "injury_status": "",
+          "last_name": "Stafford",
+          "news_updated": "1787975441593",
+          "number": "9",
+          "player_id": "421",
+          "position": "QB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "LAR",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "17"
+        },
+        "pick_no": 126,
+        "picked_by": "870464495158480896",
+        "player_id": "421",
+        "reactions": null,
+        "roster_id": 9,
+        "round": 13
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 7,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Cameron",
+          "injury_status": "Questionable",
+          "last_name": "Dicker",
+          "news_updated": "1787936127141",
+          "number": "11",
+          "player_id": "8259",
+          "position": "K",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "LAC",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "4"
+        },
+        "pick_no": 127,
+        "picked_by": "1395880798690754560",
+        "player_id": "8259",
+        "reactions": null,
+        "roster_id": 3,
         "round": 13
       }
     ]

@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T02:34:27.194Z",
+  "synced_at": "2026-09-01T02:36:27.154Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -21,7 +21,7 @@
     "status": "drafting",
     "metadata": {
       "auto_continue": "on",
-      "current_pick_no": "82",
+      "current_pick_no": "92",
       "imported_history": "true",
       "imported_history_import_id": "1395522503958335488",
       "imported_history_padded_teams": "0",
@@ -30,7 +30,7 @@
       "imported_history_roster_identities": "{\"9\":{\"imported_team_name\":\"Sydney Sweeny has great jeantys\",\"imported_provider_roster_id\":\"9\"},\"8\":{\"imported_team_name\":\"Send em Mahomes\",\"imported_provider_roster_id\":\"8\"},\"7\":{\"imported_team_name\":\"Team Wood\",\"imported_provider_roster_id\":\"7\"},\"6\":{\"imported_team_name\":\"Naberhood Watch Program\",\"imported_provider_roster_id\":\"6\"},\"5\":{\"imported_team_name\":\"Dak Stack Attack\",\"imported_provider_roster_id\":\"5\"},\"4\":{\"imported_team_name\":\"ICE, JustOneNastyAgencyHonestly\",\"imported_provider_roster_id\":\"4\"},\"3\":{\"imported_team_name\":\"Philly Cheesesteaks\",\"imported_provider_roster_id\":\"3\"},\"2\":{\"imported_team_name\":\"My Pitiful Dull Busted Fantasy\",\"imported_provider_roster_id\":\"2\"},\"10\":{\"imported_team_name\":\"Team Chiasson\",\"imported_provider_roster_id\":\"10\"},\"1\":{\"imported_team_name\":\"Get'Njigba Wit It\",\"imported_provider_roster_id\":\"1\"}}",
       "imported_history_source_num_teams": "10",
       "keeper_deadline": "0",
-      "on_the_clock_user_id": "1133935766251597824"
+      "on_the_clock_user_id": "1395850093722112000"
     },
     "settings": {
       "best_ball": 0,
@@ -84,6 +84,11 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1399143712398790656",
+    "shard": 462,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -234,11 +239,6 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 462,
-    "sport": "nfl",
-    "last_message_id": "1399143712398790656",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -247,13 +247,10 @@
     "last_message_text_map": null,
     "last_message_time": 1787944365170,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1395522511403220992",
+    "last_read_id": null,
     "league_id": "1395522507427024896",
     "previous_league_id": null,
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -273,6 +270,9 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -773,9 +773,9 @@
           "870464495158480896": 6,
           "978083733284720640": 5
         },
-        "last_message_id": "1400340945479688192",
-        "last_message_time": 1788229807781,
-        "last_picked": 1788229807770,
+        "last_message_id": "1400341868318818304",
+        "last_message_time": 1788230027803,
+        "last_picked": 1788230027791,
         "league_id": "1395522507427024896",
         "metadata": {
           "league_type": "0",
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 87,
+    "total_picks": 91,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -3077,6 +3077,110 @@
         "reactions": null,
         "roster_id": 3,
         "round": 9
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 8,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "J.K.",
+          "injury_status": "",
+          "last_name": "Dobbins",
+          "news_updated": "1787931026388",
+          "number": "27",
+          "player_id": "6806",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "DEN",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "6"
+        },
+        "pick_no": 88,
+        "picked_by": "1126024356972437504",
+        "player_id": "6806",
+        "reactions": null,
+        "roster_id": 1,
+        "round": 9
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 9,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Jayden",
+          "injury_status": "",
+          "last_name": "Reed",
+          "news_updated": "1788210011035",
+          "number": "11",
+          "player_id": "10222",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "GB",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "3"
+        },
+        "pick_no": 89,
+        "picked_by": "1395850093722112000",
+        "player_id": "10222",
+        "reactions": null,
+        "roster_id": 8,
+        "round": 9
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 10,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "RJ",
+          "injury_status": "",
+          "last_name": "Harvey",
+          "news_updated": "1787715642672",
+          "number": "12",
+          "player_id": "12489",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "DEN",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "1"
+        },
+        "pick_no": 90,
+        "picked_by": "1393702141796814848",
+        "player_id": "12489",
+        "reactions": null,
+        "roster_id": 6,
+        "round": 9
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 10,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Alec",
+          "injury_status": "Questionable",
+          "last_name": "Pierce",
+          "news_updated": "1788026149759",
+          "number": "14",
+          "player_id": "8142",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "IND",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "4"
+        },
+        "pick_no": 91,
+        "picked_by": "1393702141796814848",
+        "player_id": "8142",
+        "reactions": null,
+        "roster_id": 6,
+        "round": 10
       }
     ]
   },

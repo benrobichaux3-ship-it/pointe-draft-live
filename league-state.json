@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T02:58:27.174Z",
+  "synced_at": "2026-09-01T03:00:27.566Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -21,7 +21,7 @@
     "status": "drafting",
     "metadata": {
       "auto_continue": "on",
-      "current_pick_no": "131",
+      "current_pick_no": "144",
       "imported_history": "true",
       "imported_history_import_id": "1395522503958335488",
       "imported_history_padded_teams": "0",
@@ -30,7 +30,7 @@
       "imported_history_roster_identities": "{\"9\":{\"imported_team_name\":\"Sydney Sweeny has great jeantys\",\"imported_provider_roster_id\":\"9\"},\"8\":{\"imported_team_name\":\"Send em Mahomes\",\"imported_provider_roster_id\":\"8\"},\"7\":{\"imported_team_name\":\"Team Wood\",\"imported_provider_roster_id\":\"7\"},\"6\":{\"imported_team_name\":\"Naberhood Watch Program\",\"imported_provider_roster_id\":\"6\"},\"5\":{\"imported_team_name\":\"Dak Stack Attack\",\"imported_provider_roster_id\":\"5\"},\"4\":{\"imported_team_name\":\"ICE, JustOneNastyAgencyHonestly\",\"imported_provider_roster_id\":\"4\"},\"3\":{\"imported_team_name\":\"Philly Cheesesteaks\",\"imported_provider_roster_id\":\"3\"},\"2\":{\"imported_team_name\":\"My Pitiful Dull Busted Fantasy\",\"imported_provider_roster_id\":\"2\"},\"10\":{\"imported_team_name\":\"Team Chiasson\",\"imported_provider_roster_id\":\"10\"},\"1\":{\"imported_team_name\":\"Get'Njigba Wit It\",\"imported_provider_roster_id\":\"1\"}}",
       "imported_history_source_num_teams": "10",
       "keeper_deadline": "0",
-      "on_the_clock_user_id": "1393702141796814848"
+      "on_the_clock_user_id": "1303442724602523648"
     },
     "settings": {
       "best_ball": 0,
@@ -254,6 +254,8 @@
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -273,8 +275,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 138,
+    "total_picks": 143,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -4403,6 +4403,136 @@
         "reactions": null,
         "roster_id": 4,
         "round": 14
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 2,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Xavier",
+          "injury_status": "",
+          "last_name": "Worthy",
+          "news_updated": "1787974542477",
+          "number": "1",
+          "player_id": "11624",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "KC",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "2"
+        },
+        "pick_no": 139,
+        "picked_by": "1133935766251597824",
+        "player_id": "11624",
+        "reactions": null,
+        "roster_id": 10,
+        "round": 14
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 1,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Chris",
+          "injury_status": "",
+          "last_name": "Rodriguez",
+          "news_updated": "1787761847400",
+          "number": "24",
+          "player_id": "10219",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "JAX",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "3"
+        },
+        "pick_no": 140,
+        "picked_by": "755957313994764288",
+        "player_id": "10219",
+        "reactions": null,
+        "roster_id": 5,
+        "round": 14
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 1,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Brock",
+          "injury_status": "",
+          "last_name": "Purdy",
+          "news_updated": "1787979342089",
+          "number": "13",
+          "player_id": "8183",
+          "position": "QB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "SF",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "4"
+        },
+        "pick_no": 141,
+        "picked_by": "755957313994764288",
+        "player_id": "8183",
+        "reactions": null,
+        "roster_id": 5,
+        "round": 15
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 2,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Mark",
+          "injury_status": "",
+          "last_name": "Andrews",
+          "news_updated": "1787893256491",
+          "number": "89",
+          "player_id": "5012",
+          "position": "TE",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "BAL",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "8"
+        },
+        "pick_no": 142,
+        "picked_by": "1133935766251597824",
+        "player_id": "5012",
+        "reactions": null,
+        "roster_id": 10,
+        "round": 15
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 3,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Woody",
+          "injury_status": "",
+          "last_name": "Marks",
+          "news_updated": "1787430925294",
+          "number": "4",
+          "player_id": "12474",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "HOU",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "1"
+        },
+        "pick_no": 143,
+        "picked_by": "1137571098905919488",
+        "player_id": "12474",
+        "reactions": null,
+        "roster_id": 4,
+        "round": 15
       }
     ]
   },

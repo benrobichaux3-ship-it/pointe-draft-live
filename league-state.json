@@ -2,8 +2,8 @@
   "league_name": "Pointe League",
   "league_id": "1395522507427024896",
   "season": "2026",
-  "status": "pre_draft",
-  "synced_at": "2026-09-01T01:46:27.150Z",
+  "status": "drafting",
+  "synced_at": "2026-09-01T01:48:27.184Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -18,9 +18,10 @@
   },
   "league": {
     "name": "Pointe League",
-    "status": "pre_draft",
+    "status": "drafting",
     "metadata": {
       "auto_continue": "on",
+      "current_pick_no": "3",
       "imported_history": "true",
       "imported_history_import_id": "1395522503958335488",
       "imported_history_padded_teams": "0",
@@ -28,7 +29,8 @@
       "imported_history_provider_league_id": "1890452789",
       "imported_history_roster_identities": "{\"9\":{\"imported_team_name\":\"Sydney Sweeny has great jeantys\",\"imported_provider_roster_id\":\"9\"},\"8\":{\"imported_team_name\":\"Send em Mahomes\",\"imported_provider_roster_id\":\"8\"},\"7\":{\"imported_team_name\":\"Team Wood\",\"imported_provider_roster_id\":\"7\"},\"6\":{\"imported_team_name\":\"Naberhood Watch Program\",\"imported_provider_roster_id\":\"6\"},\"5\":{\"imported_team_name\":\"Dak Stack Attack\",\"imported_provider_roster_id\":\"5\"},\"4\":{\"imported_team_name\":\"ICE, JustOneNastyAgencyHonestly\",\"imported_provider_roster_id\":\"4\"},\"3\":{\"imported_team_name\":\"Philly Cheesesteaks\",\"imported_provider_roster_id\":\"3\"},\"2\":{\"imported_team_name\":\"My Pitiful Dull Busted Fantasy\",\"imported_provider_roster_id\":\"2\"},\"10\":{\"imported_team_name\":\"Team Chiasson\",\"imported_provider_roster_id\":\"10\"},\"1\":{\"imported_team_name\":\"Get'Njigba Wit It\",\"imported_provider_roster_id\":\"1\"}}",
       "imported_history_source_num_teams": "10",
-      "keeper_deadline": "0"
+      "keeper_deadline": "0",
+      "on_the_clock_user_id": "1137571098905919488"
     },
     "settings": {
       "best_ball": 0,
@@ -82,10 +84,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "shard": 462,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -236,6 +234,10 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 462,
+    "sport": "nfl",
     "last_message_id": "1399143712398790656",
     "draft_id": "1395522511403220992",
     "last_author_avatar": null,
@@ -249,7 +251,6 @@
     "last_read_id": null,
     "league_id": "1395522507427024896",
     "previous_league_id": null,
-    "bracket_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -269,6 +270,7 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
     "loser_bracket_id": null,
@@ -411,13 +413,13 @@
   "rosters": [
     {
       "co_owners": null,
-      "keepers": [],
+      "keepers": null,
       "league_id": "1395522507427024896",
       "metadata": null,
       "owner_id": "1126024356972437504",
       "player_map": null,
-      "players": [],
-      "reserve": [],
+      "players": null,
+      "reserve": null,
       "roster_id": 1,
       "settings": {
         "fpts": 0,
@@ -441,17 +443,17 @@
         "0",
         "0"
       ],
-      "taxi": []
+      "taxi": null
     },
     {
       "co_owners": null,
-      "keepers": [],
+      "keepers": null,
       "league_id": "1395522507427024896",
       "metadata": null,
       "owner_id": "978083733284720640",
       "player_map": null,
-      "players": [],
-      "reserve": [],
+      "players": null,
+      "reserve": null,
       "roster_id": 2,
       "settings": {
         "fpts": 0,
@@ -475,17 +477,17 @@
         "0",
         "0"
       ],
-      "taxi": []
+      "taxi": null
     },
     {
       "co_owners": null,
-      "keepers": [],
+      "keepers": null,
       "league_id": "1395522507427024896",
       "metadata": null,
       "owner_id": "1395880798690754560",
       "player_map": null,
-      "players": [],
-      "reserve": [],
+      "players": null,
+      "reserve": null,
       "roster_id": 3,
       "settings": {
         "fpts": 0,
@@ -509,17 +511,17 @@
         "0",
         "0"
       ],
-      "taxi": []
+      "taxi": null
     },
     {
       "co_owners": null,
-      "keepers": [],
+      "keepers": null,
       "league_id": "1395522507427024896",
       "metadata": null,
       "owner_id": "1137571098905919488",
       "player_map": null,
-      "players": [],
-      "reserve": [],
+      "players": null,
+      "reserve": null,
       "roster_id": 4,
       "settings": {
         "fpts": 0,
@@ -543,17 +545,17 @@
         "0",
         "0"
       ],
-      "taxi": []
+      "taxi": null
     },
     {
       "co_owners": null,
-      "keepers": [],
+      "keepers": null,
       "league_id": "1395522507427024896",
       "metadata": null,
       "owner_id": "755957313994764288",
       "player_map": null,
-      "players": [],
-      "reserve": [],
+      "players": null,
+      "reserve": null,
       "roster_id": 5,
       "settings": {
         "fpts": 0,
@@ -577,17 +579,17 @@
         "0",
         "0"
       ],
-      "taxi": []
+      "taxi": null
     },
     {
       "co_owners": null,
-      "keepers": [],
+      "keepers": null,
       "league_id": "1395522507427024896",
       "metadata": null,
       "owner_id": "1393702141796814848",
       "player_map": null,
-      "players": [],
-      "reserve": [],
+      "players": null,
+      "reserve": null,
       "roster_id": 6,
       "settings": {
         "fpts": 0,
@@ -611,17 +613,17 @@
         "0",
         "0"
       ],
-      "taxi": []
+      "taxi": null
     },
     {
       "co_owners": null,
-      "keepers": [],
+      "keepers": null,
       "league_id": "1395522507427024896",
       "metadata": null,
       "owner_id": "1303442724602523648",
       "player_map": null,
-      "players": [],
-      "reserve": [],
+      "players": null,
+      "reserve": null,
       "roster_id": 7,
       "settings": {
         "fpts": 0,
@@ -645,17 +647,17 @@
         "0",
         "0"
       ],
-      "taxi": []
+      "taxi": null
     },
     {
       "co_owners": null,
-      "keepers": [],
+      "keepers": null,
       "league_id": "1395522507427024896",
       "metadata": null,
       "owner_id": "1395850093722112000",
       "player_map": null,
-      "players": [],
-      "reserve": [],
+      "players": null,
+      "reserve": null,
       "roster_id": 8,
       "settings": {
         "fpts": 0,
@@ -679,17 +681,17 @@
         "0",
         "0"
       ],
-      "taxi": []
+      "taxi": null
     },
     {
       "co_owners": null,
-      "keepers": [],
+      "keepers": null,
       "league_id": "1395522507427024896",
       "metadata": null,
       "owner_id": "870464495158480896",
       "player_map": null,
-      "players": [],
-      "reserve": [],
+      "players": null,
+      "reserve": null,
       "roster_id": 9,
       "settings": {
         "fpts": 0,
@@ -713,17 +715,17 @@
         "0",
         "0"
       ],
-      "taxi": []
+      "taxi": null
     },
     {
       "co_owners": null,
-      "keepers": [],
+      "keepers": null,
       "league_id": "1395522507427024896",
       "metadata": null,
       "owner_id": "1133935766251597824",
       "player_map": null,
-      "players": [],
-      "reserve": [],
+      "players": null,
+      "reserve": null,
       "roster_id": 10,
       "settings": {
         "fpts": 0,
@@ -747,7 +749,7 @@
         "0",
         "0"
       ],
-      "taxi": []
+      "taxi": null
     }
   ],
   "draft": {
@@ -812,8 +814,61 @@
         "type": "snake"
       }
     ],
-    "total_picks": 0,
-    "picks": []
+    "total_picks": 2,
+    "picks": [
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 1,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Jahmyr",
+          "injury_status": "",
+          "last_name": "Gibbs",
+          "news_updated": "1788190811400",
+          "number": "0",
+          "player_id": "9221",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "DET",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "3"
+        },
+        "pick_no": 1,
+        "picked_by": "755957313994764288",
+        "player_id": "9221",
+        "reactions": null,
+        "roster_id": 5,
+        "round": 1
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 2,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Bijan",
+          "injury_status": "",
+          "last_name": "Robinson",
+          "news_updated": "1787794258583",
+          "number": "7",
+          "player_id": "9509",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "ATL",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "3"
+        },
+        "pick_no": 2,
+        "picked_by": "1133935766251597824",
+        "player_id": "9509",
+        "reactions": null,
+        "roster_id": 10,
+        "round": 1
+      }
+    ]
   },
   "matchups": [
     {

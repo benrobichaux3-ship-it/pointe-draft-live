@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T03:04:27.165Z",
+  "synced_at": "2026-09-01T03:06:27.148Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -21,7 +21,7 @@
     "status": "drafting",
     "metadata": {
       "auto_continue": "on",
-      "current_pick_no": "144",
+      "current_pick_no": "162",
       "imported_history": "true",
       "imported_history_import_id": "1395522503958335488",
       "imported_history_padded_teams": "0",
@@ -30,7 +30,7 @@
       "imported_history_roster_identities": "{\"9\":{\"imported_team_name\":\"Sydney Sweeny has great jeantys\",\"imported_provider_roster_id\":\"9\"},\"8\":{\"imported_team_name\":\"Send em Mahomes\",\"imported_provider_roster_id\":\"8\"},\"7\":{\"imported_team_name\":\"Team Wood\",\"imported_provider_roster_id\":\"7\"},\"6\":{\"imported_team_name\":\"Naberhood Watch Program\",\"imported_provider_roster_id\":\"6\"},\"5\":{\"imported_team_name\":\"Dak Stack Attack\",\"imported_provider_roster_id\":\"5\"},\"4\":{\"imported_team_name\":\"ICE, JustOneNastyAgencyHonestly\",\"imported_provider_roster_id\":\"4\"},\"3\":{\"imported_team_name\":\"Philly Cheesesteaks\",\"imported_provider_roster_id\":\"3\"},\"2\":{\"imported_team_name\":\"My Pitiful Dull Busted Fantasy\",\"imported_provider_roster_id\":\"2\"},\"10\":{\"imported_team_name\":\"Team Chiasson\",\"imported_provider_roster_id\":\"10\"},\"1\":{\"imported_team_name\":\"Get'Njigba Wit It\",\"imported_provider_roster_id\":\"1\"}}",
       "imported_history_source_num_teams": "10",
       "keeper_deadline": "0",
-      "on_the_clock_user_id": "1303442724602523648"
+      "on_the_clock_user_id": "1133935766251597824"
     },
     "settings": {
       "best_ball": 0,
@@ -84,6 +84,7 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1399143712398790656",
     "shard": 462,
     "season": "2026",
     "season_type": "regular",
@@ -238,7 +239,6 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1399143712398790656",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -247,15 +247,10 @@
     "last_message_text_map": null,
     "last_message_time": 1787944365170,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1395522511403220992",
+    "last_read_id": null,
     "league_id": "1395522507427024896",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -275,6 +270,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -773,9 +773,9 @@
           "870464495158480896": 6,
           "978083733284720640": 5
         },
-        "last_message_id": "1400348447114055680",
-        "last_message_time": 1788231596310,
-        "last_picked": 1788231596297,
+        "last_message_id": "1400349580721172480",
+        "last_message_time": 1788231866583,
+        "last_picked": 1788231866571,
         "league_id": "1395522507427024896",
         "metadata": {
           "league_type": "0",
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 153,
+    "total_picks": 161,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -4793,6 +4793,214 @@
         "reactions": null,
         "roster_id": 1,
         "round": 16
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 7,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Tyler",
+          "injury_status": "",
+          "last_name": "Allgeier",
+          "news_updated": "1788193811704",
+          "number": "22",
+          "player_id": "8132",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "ARI",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "4"
+        },
+        "pick_no": 154,
+        "picked_by": "1395880798690754560",
+        "player_id": "8132",
+        "reactions": null,
+        "roster_id": 3,
+        "round": 16
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 6,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Braelon",
+          "injury_status": "",
+          "last_name": "Allen",
+          "news_updated": "1787893556505",
+          "number": "0",
+          "player_id": "11576",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "NYJ",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "2"
+        },
+        "pick_no": 155,
+        "picked_by": "870464495158480896",
+        "player_id": "11576",
+        "reactions": null,
+        "roster_id": 9,
+        "round": 16
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 5,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Juwan",
+          "injury_status": "",
+          "last_name": "Johnson",
+          "news_updated": "1787514632581",
+          "number": "83",
+          "player_id": "7002",
+          "position": "TE",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "NO",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "6"
+        },
+        "pick_no": 156,
+        "picked_by": "978083733284720640",
+        "player_id": "7002",
+        "reactions": null,
+        "roster_id": 2,
+        "round": 16
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 4,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Mike",
+          "injury_status": "",
+          "last_name": "Washington",
+          "news_updated": "1788195011876",
+          "number": "30",
+          "player_id": "13305",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "LV",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "0"
+        },
+        "pick_no": 157,
+        "picked_by": "1303442724602523648",
+        "player_id": "13305",
+        "reactions": null,
+        "roster_id": 7,
+        "round": 16
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 3,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Emmett",
+          "injury_status": "",
+          "last_name": "Johnson",
+          "news_updated": "1788184510779",
+          "number": "10",
+          "player_id": "13337",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "KC",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "0"
+        },
+        "pick_no": 158,
+        "picked_by": "1137571098905919488",
+        "player_id": "13337",
+        "reactions": null,
+        "roster_id": 4,
+        "round": 16
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 2,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Tyjae",
+          "injury_status": "",
+          "last_name": "Spears",
+          "news_updated": "1787893856526",
+          "number": "2",
+          "player_id": "9508",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "TEN",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "3"
+        },
+        "pick_no": 159,
+        "picked_by": "1133935766251597824",
+        "player_id": "9508",
+        "reactions": null,
+        "roster_id": 10,
+        "round": 16
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 1,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Tank",
+          "injury_status": "",
+          "last_name": "Bigsby",
+          "news_updated": "1787934326784",
+          "number": "8",
+          "player_id": "9225",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "PHI",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "3"
+        },
+        "pick_no": 160,
+        "picked_by": "755957313994764288",
+        "player_id": "9225",
+        "reactions": null,
+        "roster_id": 5,
+        "round": 16
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 1,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Keaton",
+          "injury_status": "Questionable",
+          "last_name": "Mitchell",
+          "news_updated": "1788216311742",
+          "number": "34",
+          "player_id": "9511",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "LAC",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "3"
+        },
+        "pick_no": 161,
+        "picked_by": "755957313994764288",
+        "player_id": "9511",
+        "reactions": null,
+        "roster_id": 5,
+        "round": 17
       }
     ]
   },

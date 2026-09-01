@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T03:00:27.566Z",
+  "synced_at": "2026-09-01T03:02:27.151Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -773,9 +773,9 @@
           "870464495158480896": 6,
           "978083733284720640": 5
         },
-        "last_message_id": "1400347561339928576",
-        "last_message_time": 1788231385125,
-        "last_picked": 1788231385113,
+        "last_message_id": "1400348447114055680",
+        "last_message_time": 1788231596310,
+        "last_picked": 1788231596297,
         "league_id": "1395522507427024896",
         "metadata": {
           "league_type": "0",
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 143,
+    "total_picks": 146,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -4532,6 +4532,84 @@
         "player_id": "12474",
         "reactions": null,
         "roster_id": 4,
+        "round": 15
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 4,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Jakobi",
+          "injury_status": "Questionable",
+          "last_name": "Meyers",
+          "news_updated": "1787503831819",
+          "number": "3",
+          "player_id": "5947",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "JAX",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "7"
+        },
+        "pick_no": 144,
+        "picked_by": "1303442724602523648",
+        "player_id": "5947",
+        "reactions": null,
+        "roster_id": 7,
+        "round": 15
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 5,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Jason",
+          "injury_status": "",
+          "last_name": "Myers",
+          "news_updated": "1788103555778",
+          "number": "5",
+          "player_id": "2747",
+          "position": "K",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "SEA",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "11"
+        },
+        "pick_no": 145,
+        "picked_by": "978083733284720640",
+        "player_id": "2747",
+        "reactions": null,
+        "roster_id": 2,
+        "round": 15
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 6,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Jacksonville",
+          "injury_status": "",
+          "last_name": "Jaguars",
+          "news_updated": "",
+          "number": "",
+          "player_id": "JAX",
+          "position": "DEF",
+          "sport": "nfl",
+          "status": "",
+          "team": "JAX",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": ""
+        },
+        "pick_no": 146,
+        "picked_by": "870464495158480896",
+        "player_id": "JAX",
+        "reactions": null,
+        "roster_id": 9,
         "round": 15
       }
     ]

@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T02:54:27.390Z",
+  "synced_at": "2026-09-01T02:56:27.154Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 130,
+    "total_picks": 133,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -4195,6 +4195,84 @@
         "reactions": null,
         "roster_id": 6,
         "round": 13
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 10,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Khalil",
+          "injury_status": "Questionable",
+          "last_name": "Shakir",
+          "news_updated": "1787871053979",
+          "number": "10",
+          "player_id": "8134",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "BUF",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "4"
+        },
+        "pick_no": 131,
+        "picked_by": "1393702141796814848",
+        "player_id": "8134",
+        "reactions": null,
+        "roster_id": 6,
+        "round": 14
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 9,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Jake",
+          "injury_status": "",
+          "last_name": "Ferguson",
+          "news_updated": "1787946328358",
+          "number": "87",
+          "player_id": "8110",
+          "position": "TE",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "DAL",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "4"
+        },
+        "pick_no": 132,
+        "picked_by": "1395850093722112000",
+        "player_id": "8110",
+        "reactions": null,
+        "roster_id": 8,
+        "round": 14
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 8,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Jalen",
+          "injury_status": "",
+          "last_name": "Coker",
+          "news_updated": "1788193511692",
+          "number": "18",
+          "player_id": "11646",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "CAR",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "2"
+        },
+        "pick_no": 133,
+        "picked_by": "1126024356972437504",
+        "player_id": "11646",
+        "reactions": null,
+        "roster_id": 1,
+        "round": 14
       }
     ]
   },

@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T02:38:27.159Z",
+  "synced_at": "2026-09-01T02:40:27.164Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -773,9 +773,9 @@
           "870464495158480896": 6,
           "978083733284720640": 5
         },
-        "last_message_id": "1400341868318818304",
-        "last_message_time": 1788230027803,
-        "last_picked": 1788230027791,
+        "last_message_id": "1400342979671019520",
+        "last_message_time": 1788230292770,
+        "last_picked": 1788230292760,
         "league_id": "1395522507427024896",
         "metadata": {
           "league_type": "0",
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 95,
+    "total_picks": 98,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -3284,6 +3284,84 @@
         "player_id": "12506",
         "reactions": null,
         "roster_id": 9,
+        "round": 10
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 5,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Blake",
+          "injury_status": "",
+          "last_name": "Corum",
+          "news_updated": "1788207313346",
+          "number": "24",
+          "player_id": "11586",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "LAR",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "2"
+        },
+        "pick_no": 96,
+        "picked_by": "978083733284720640",
+        "player_id": "11586",
+        "reactions": null,
+        "roster_id": 2,
+        "round": 10
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 4,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Kenny",
+          "injury_status": "",
+          "last_name": "Gainwell",
+          "news_updated": "1787944828216",
+          "number": "1",
+          "player_id": "7567",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "TB",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "5"
+        },
+        "pick_no": 97,
+        "picked_by": "1303442724602523648",
+        "player_id": "7567",
+        "reactions": null,
+        "roster_id": 7,
+        "round": 10
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 3,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Kyle",
+          "injury_status": "",
+          "last_name": "Pitts",
+          "news_updated": "1788018646696",
+          "number": "8",
+          "player_id": "7553",
+          "position": "TE",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "ATL",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "5"
+        },
+        "pick_no": 98,
+        "picked_by": "1137571098905919488",
+        "player_id": "7553",
+        "reactions": null,
+        "roster_id": 4,
         "round": 10
       }
     ]

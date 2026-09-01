@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-09-01T04:58:27.154Z",
+  "synced_at": "2026-09-01T12:54:27.141Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -88,6 +88,7 @@
     "season": "2026",
     "season_type": "regular",
     "sport": "nfl",
+    "last_message_id": "1400495988895936512",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -238,7 +239,6 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1400356684689321984",
     "draft_id": "1395522511403220992",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -246,11 +246,13 @@
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1788233560301,
+    "last_message_time": 1788266773012,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1395522507427024896",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -271,8 +273,6 @@
       "BN"
     ],
     "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -299,7 +299,9 @@
       "league_id": "1395522507427024896",
       "metadata": {
         "allow_pn": "on",
-        "mention_pn": "on"
+        "avatar": "https://sleepercdn.com/uploads/411cc52128ef632dc3e129bc98f365b0.jpg",
+        "mention_pn": "on",
+        "team_name": "Mike Litterus"
       },
       "settings": null,
       "user_id": "870464495158480896"

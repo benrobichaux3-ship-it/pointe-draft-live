@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T02:42:27.159Z",
+  "synced_at": "2026-09-01T02:44:03.454Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -773,9 +773,9 @@
           "870464495158480896": 6,
           "978083733284720640": 5
         },
-        "last_message_id": "1400342979671019520",
-        "last_message_time": 1788230292770,
-        "last_picked": 1788230292760,
+        "last_message_id": "1400344019522822144",
+        "last_message_time": 1788230540689,
+        "last_picked": 1788230540677,
         "league_id": "1395522507427024896",
         "metadata": {
           "league_type": "0",
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 103,
+    "total_picks": 109,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -3492,6 +3492,162 @@
         "player_id": "HOU",
         "reactions": null,
         "roster_id": 4,
+        "round": 11
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 4,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Jordan",
+          "injury_status": "",
+          "last_name": "Addison",
+          "news_updated": "1788034248421",
+          "number": "3",
+          "player_id": "9756",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "MIN",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "3"
+        },
+        "pick_no": 104,
+        "picked_by": "1303442724602523648",
+        "player_id": "9756",
+        "reactions": null,
+        "roster_id": 7,
+        "round": 11
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 5,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Stefon",
+          "injury_status": "",
+          "last_name": "Diggs",
+          "news_updated": "1788029747911",
+          "number": "3",
+          "player_id": "2449",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "WAS",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "11"
+        },
+        "pick_no": 105,
+        "picked_by": "978083733284720640",
+        "player_id": "2449",
+        "reactions": null,
+        "roster_id": 2,
+        "round": 11
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 6,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "KC",
+          "injury_status": "",
+          "last_name": "Concepcion",
+          "news_updated": "1787977842154",
+          "number": "1",
+          "player_id": "13298",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "CLE",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "0"
+        },
+        "pick_no": 106,
+        "picked_by": "870464495158480896",
+        "player_id": "13298",
+        "reactions": null,
+        "roster_id": 9,
+        "round": 11
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 7,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Michael",
+          "injury_status": "Questionable",
+          "last_name": "Pittman",
+          "news_updated": "1788206113029",
+          "number": "11",
+          "player_id": "6819",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "PIT",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "6"
+        },
+        "pick_no": 107,
+        "picked_by": "1395880798690754560",
+        "player_id": "6819",
+        "reactions": null,
+        "roster_id": 3,
+        "round": 11
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 8,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Los Angeles",
+          "injury_status": "",
+          "last_name": "Rams",
+          "news_updated": "",
+          "number": "",
+          "player_id": "LAR",
+          "position": "DEF",
+          "sport": "nfl",
+          "status": "",
+          "team": "LAR",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": ""
+        },
+        "pick_no": 108,
+        "picked_by": "1126024356972437504",
+        "player_id": "LAR",
+        "reactions": null,
+        "roster_id": 1,
+        "round": 11
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 9,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Dak",
+          "injury_status": "",
+          "last_name": "Prescott",
+          "news_updated": "1787751946294",
+          "number": "4",
+          "player_id": "3294",
+          "position": "QB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "DAL",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "10"
+        },
+        "pick_no": 109,
+        "picked_by": "1395850093722112000",
+        "player_id": "3294",
+        "reactions": null,
+        "roster_id": 8,
         "round": 11
       }
     ]

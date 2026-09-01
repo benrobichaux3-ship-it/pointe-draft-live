@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T02:16:27.149Z",
+  "synced_at": "2026-09-01T02:18:27.152Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -21,7 +21,7 @@
     "status": "drafting",
     "metadata": {
       "auto_continue": "on",
-      "current_pick_no": "49",
+      "current_pick_no": "59",
       "imported_history": "true",
       "imported_history_import_id": "1395522503958335488",
       "imported_history_padded_teams": "0",
@@ -30,7 +30,7 @@
       "imported_history_roster_identities": "{\"9\":{\"imported_team_name\":\"Sydney Sweeny has great jeantys\",\"imported_provider_roster_id\":\"9\"},\"8\":{\"imported_team_name\":\"Send em Mahomes\",\"imported_provider_roster_id\":\"8\"},\"7\":{\"imported_team_name\":\"Team Wood\",\"imported_provider_roster_id\":\"7\"},\"6\":{\"imported_team_name\":\"Naberhood Watch Program\",\"imported_provider_roster_id\":\"6\"},\"5\":{\"imported_team_name\":\"Dak Stack Attack\",\"imported_provider_roster_id\":\"5\"},\"4\":{\"imported_team_name\":\"ICE, JustOneNastyAgencyHonestly\",\"imported_provider_roster_id\":\"4\"},\"3\":{\"imported_team_name\":\"Philly Cheesesteaks\",\"imported_provider_roster_id\":\"3\"},\"2\":{\"imported_team_name\":\"My Pitiful Dull Busted Fantasy\",\"imported_provider_roster_id\":\"2\"},\"10\":{\"imported_team_name\":\"Team Chiasson\",\"imported_provider_roster_id\":\"10\"},\"1\":{\"imported_team_name\":\"Get'Njigba Wit It\",\"imported_provider_roster_id\":\"1\"}}",
       "imported_history_source_num_teams": "10",
       "keeper_deadline": "0",
-      "on_the_clock_user_id": "1395850093722112000"
+      "on_the_clock_user_id": "1133935766251597824"
     },
     "settings": {
       "best_ball": 0,
@@ -773,9 +773,9 @@
           "870464495158480896": 6,
           "978083733284720640": 5
         },
-        "last_message_id": "1400336345284517888",
-        "last_message_time": 1788228711009,
-        "last_picked": 1788228710997,
+        "last_message_id": "1400337330413318144",
+        "last_message_time": 1788228945882,
+        "last_picked": 1788228945870,
         "league_id": "1395522507427024896",
         "metadata": {
           "league_type": "0",
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 55,
+    "total_picks": 58,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -2244,6 +2244,84 @@
         "player_id": "11584",
         "reactions": null,
         "roster_id": 9,
+        "round": 6
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 5,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Luther",
+          "injury_status": "Questionable",
+          "last_name": "Burden",
+          "news_updated": "1788096654745",
+          "number": "10",
+          "player_id": "12519",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "CHI",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "1"
+        },
+        "pick_no": 56,
+        "picked_by": "978083733284720640",
+        "player_id": "12519",
+        "reactions": null,
+        "roster_id": 2,
+        "round": 6
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 4,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "David",
+          "injury_status": "",
+          "last_name": "Montgomery",
+          "news_updated": "1787933126735",
+          "number": "32",
+          "player_id": "5892",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "HOU",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "7"
+        },
+        "pick_no": 57,
+        "picked_by": "1303442724602523648",
+        "player_id": "5892",
+        "reactions": null,
+        "roster_id": 7,
+        "round": 6
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 3,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Bhayshul",
+          "injury_status": "",
+          "last_name": "Tuten",
+          "news_updated": "1788104755492",
+          "number": "33",
+          "player_id": "12490",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "JAX",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "1"
+        },
+        "pick_no": 58,
+        "picked_by": "1137571098905919488",
+        "player_id": "12490",
+        "reactions": null,
+        "roster_id": 4,
         "round": 6
       }
     ]

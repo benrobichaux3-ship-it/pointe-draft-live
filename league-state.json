@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T02:14:27.177Z",
+  "synced_at": "2026-09-01T02:16:27.149Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 51,
+    "total_picks": 55,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -2140,6 +2140,110 @@
         "player_id": "11564",
         "reactions": null,
         "roster_id": 6,
+        "round": 6
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 9,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Quinshon",
+          "injury_status": "",
+          "last_name": "Judkins",
+          "news_updated": "1787964640980",
+          "number": "10",
+          "player_id": "12512",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "CLE",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "1"
+        },
+        "pick_no": 52,
+        "picked_by": "1395850093722112000",
+        "player_id": "12512",
+        "reactions": null,
+        "roster_id": 8,
+        "round": 6
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 8,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Tyler",
+          "injury_status": "Questionable",
+          "last_name": "Warren",
+          "news_updated": "1787767250313",
+          "number": "84",
+          "player_id": "12518",
+          "position": "TE",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "IND",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "1"
+        },
+        "pick_no": 53,
+        "picked_by": "1126024356972437504",
+        "player_id": "12518",
+        "reactions": null,
+        "roster_id": 1,
+        "round": 6
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 7,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Davante",
+          "injury_status": "",
+          "last_name": "Adams",
+          "news_updated": "1788111055914",
+          "number": "17",
+          "player_id": "2133",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "LAR",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "12"
+        },
+        "pick_no": 54,
+        "picked_by": "1395880798690754560",
+        "player_id": "2133",
+        "reactions": null,
+        "roster_id": 3,
+        "round": 6
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 6,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Bucky",
+          "injury_status": "",
+          "last_name": "Irving",
+          "news_updated": "1788106855538",
+          "number": "7",
+          "player_id": "11584",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "TB",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "2"
+        },
+        "pick_no": 55,
+        "picked_by": "870464495158480896",
+        "player_id": "11584",
+        "reactions": null,
+        "roster_id": 9,
         "round": 6
       }
     ]

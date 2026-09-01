@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T02:44:03.454Z",
+  "synced_at": "2026-09-01T02:44:27.150Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 109,
+    "total_picks": 107,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -3596,58 +3596,6 @@
         "player_id": "6819",
         "reactions": null,
         "roster_id": 3,
-        "round": 11
-      },
-      {
-        "draft_id": "1395522511403220992",
-        "draft_slot": 8,
-        "is_keeper": null,
-        "metadata": {
-          "first_name": "Los Angeles",
-          "injury_status": "",
-          "last_name": "Rams",
-          "news_updated": "",
-          "number": "",
-          "player_id": "LAR",
-          "position": "DEF",
-          "sport": "nfl",
-          "status": "",
-          "team": "LAR",
-          "team_abbr": "",
-          "team_changed_at": "",
-          "years_exp": ""
-        },
-        "pick_no": 108,
-        "picked_by": "1126024356972437504",
-        "player_id": "LAR",
-        "reactions": null,
-        "roster_id": 1,
-        "round": 11
-      },
-      {
-        "draft_id": "1395522511403220992",
-        "draft_slot": 9,
-        "is_keeper": null,
-        "metadata": {
-          "first_name": "Dak",
-          "injury_status": "",
-          "last_name": "Prescott",
-          "news_updated": "1787751946294",
-          "number": "4",
-          "player_id": "3294",
-          "position": "QB",
-          "sport": "nfl",
-          "status": "Active",
-          "team": "DAL",
-          "team_abbr": "",
-          "team_changed_at": "",
-          "years_exp": "10"
-        },
-        "pick_no": 109,
-        "picked_by": "1395850093722112000",
-        "player_id": "3294",
-        "reactions": null,
-        "roster_id": 8,
         "round": 11
       }
     ]

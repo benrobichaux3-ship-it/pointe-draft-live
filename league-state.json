@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T01:51:48.976Z",
+  "synced_at": "2026-09-01T01:51:50.107Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -21,7 +21,7 @@
     "status": "drafting",
     "metadata": {
       "auto_continue": "on",
-      "current_pick_no": "3",
+      "current_pick_no": "12",
       "imported_history": "true",
       "imported_history_import_id": "1395522503958335488",
       "imported_history_padded_teams": "0",
@@ -30,7 +30,7 @@
       "imported_history_roster_identities": "{\"9\":{\"imported_team_name\":\"Sydney Sweeny has great jeantys\",\"imported_provider_roster_id\":\"9\"},\"8\":{\"imported_team_name\":\"Send em Mahomes\",\"imported_provider_roster_id\":\"8\"},\"7\":{\"imported_team_name\":\"Team Wood\",\"imported_provider_roster_id\":\"7\"},\"6\":{\"imported_team_name\":\"Naberhood Watch Program\",\"imported_provider_roster_id\":\"6\"},\"5\":{\"imported_team_name\":\"Dak Stack Attack\",\"imported_provider_roster_id\":\"5\"},\"4\":{\"imported_team_name\":\"ICE, JustOneNastyAgencyHonestly\",\"imported_provider_roster_id\":\"4\"},\"3\":{\"imported_team_name\":\"Philly Cheesesteaks\",\"imported_provider_roster_id\":\"3\"},\"2\":{\"imported_team_name\":\"My Pitiful Dull Busted Fantasy\",\"imported_provider_roster_id\":\"2\"},\"10\":{\"imported_team_name\":\"Team Chiasson\",\"imported_provider_roster_id\":\"10\"},\"1\":{\"imported_team_name\":\"Get'Njigba Wit It\",\"imported_provider_roster_id\":\"1\"}}",
       "imported_history_source_num_teams": "10",
       "keeper_deadline": "0",
-      "on_the_clock_user_id": "1137571098905919488"
+      "on_the_clock_user_id": "1395850093722112000"
     },
     "settings": {
       "best_ball": 0,
@@ -239,7 +239,6 @@
     "shard": 462,
     "sport": "nfl",
     "last_message_id": "1399143712398790656",
-    "draft_id": "1395522511403220992",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -249,8 +248,14 @@
     "last_message_time": 1787944365170,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1395522511403220992",
     "league_id": "1395522507427024896",
     "previous_league_id": null,
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -270,11 +275,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -773,9 +773,9 @@
           "870464495158480896": 6,
           "978083733284720640": 5
         },
-        "last_message_id": "1400330331118108672",
-        "last_message_time": 1788227277120,
-        "last_picked": 1788227277108,
+        "last_message_id": "1400331206758768640",
+        "last_message_time": 1788227485889,
+        "last_picked": 1788227485873,
         "league_id": "1395522507427024896",
         "metadata": {
           "league_type": "0",
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 7,
+    "total_picks": 11,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -997,6 +997,110 @@
         "reactions": null,
         "roster_id": 3,
         "round": 1
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 8,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Amon-Ra",
+          "injury_status": "",
+          "last_name": "St. Brown",
+          "news_updated": "1788191711556",
+          "number": "14",
+          "player_id": "7547",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "DET",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "5"
+        },
+        "pick_no": 8,
+        "picked_by": "1126024356972437504",
+        "player_id": "7547",
+        "reactions": null,
+        "roster_id": 1,
+        "round": 1
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 9,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Jaxon",
+          "injury_status": "",
+          "last_name": "Smith-Njigba",
+          "news_updated": "1788061251396",
+          "number": "11",
+          "player_id": "9488",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "SEA",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "3"
+        },
+        "pick_no": 9,
+        "picked_by": "1395850093722112000",
+        "player_id": "9488",
+        "reactions": null,
+        "roster_id": 8,
+        "round": 1
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 10,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Jonathan",
+          "injury_status": "",
+          "last_name": "Taylor",
+          "news_updated": "1788189911255",
+          "number": "28",
+          "player_id": "6813",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "IND",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "6"
+        },
+        "pick_no": 10,
+        "picked_by": "1393702141796814848",
+        "player_id": "6813",
+        "reactions": null,
+        "roster_id": 6,
+        "round": 1
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 10,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "CeeDee",
+          "injury_status": "",
+          "last_name": "Lamb",
+          "news_updated": "1788203112779",
+          "number": "88",
+          "player_id": "6786",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "DAL",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "6"
+        },
+        "pick_no": 11,
+        "picked_by": "1393702141796814848",
+        "player_id": "6786",
+        "reactions": null,
+        "roster_id": 6,
+        "round": 2
       }
     ]
   },

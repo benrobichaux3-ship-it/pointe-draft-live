@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T02:21:53.909Z",
+  "synced_at": "2026-09-01T02:21:55.357Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -21,7 +21,7 @@
     "status": "drafting",
     "metadata": {
       "auto_continue": "on",
-      "current_pick_no": "59",
+      "current_pick_no": "70",
       "imported_history": "true",
       "imported_history_import_id": "1395522503958335488",
       "imported_history_padded_teams": "0",
@@ -30,7 +30,7 @@
       "imported_history_roster_identities": "{\"9\":{\"imported_team_name\":\"Sydney Sweeny has great jeantys\",\"imported_provider_roster_id\":\"9\"},\"8\":{\"imported_team_name\":\"Send em Mahomes\",\"imported_provider_roster_id\":\"8\"},\"7\":{\"imported_team_name\":\"Team Wood\",\"imported_provider_roster_id\":\"7\"},\"6\":{\"imported_team_name\":\"Naberhood Watch Program\",\"imported_provider_roster_id\":\"6\"},\"5\":{\"imported_team_name\":\"Dak Stack Attack\",\"imported_provider_roster_id\":\"5\"},\"4\":{\"imported_team_name\":\"ICE, JustOneNastyAgencyHonestly\",\"imported_provider_roster_id\":\"4\"},\"3\":{\"imported_team_name\":\"Philly Cheesesteaks\",\"imported_provider_roster_id\":\"3\"},\"2\":{\"imported_team_name\":\"My Pitiful Dull Busted Fantasy\",\"imported_provider_roster_id\":\"2\"},\"10\":{\"imported_team_name\":\"Team Chiasson\",\"imported_provider_roster_id\":\"10\"},\"1\":{\"imported_team_name\":\"Get'Njigba Wit It\",\"imported_provider_roster_id\":\"1\"}}",
       "imported_history_source_num_teams": "10",
       "keeper_deadline": "0",
-      "on_the_clock_user_id": "1133935766251597824"
+      "on_the_clock_user_id": "1393702141796814848"
     },
     "settings": {
       "best_ball": 0,
@@ -88,7 +88,6 @@
     "season": "2026",
     "season_type": "regular",
     "sport": "nfl",
-    "last_message_id": "1399143712398790656",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -239,6 +238,7 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
+    "last_message_id": "1399143712398790656",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -251,9 +251,6 @@
     "last_read_id": null,
     "league_id": "1395522507427024896",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -273,6 +270,9 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 65,
+    "total_picks": 69,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -2504,6 +2504,110 @@
         "player_id": "9487",
         "reactions": null,
         "roster_id": 2,
+        "round": 7
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 6,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Carnell",
+          "injury_status": "",
+          "last_name": "Tate",
+          "news_updated": "1788192311687",
+          "number": "14",
+          "player_id": "13279",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "TEN",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "0"
+        },
+        "pick_no": 66,
+        "picked_by": "870464495158480896",
+        "player_id": "13279",
+        "reactions": null,
+        "roster_id": 9,
+        "round": 7
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 7,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Chris",
+          "injury_status": "",
+          "last_name": "Godwin",
+          "news_updated": "1787796359076",
+          "number": "14",
+          "player_id": "4037",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "TB",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "9"
+        },
+        "pick_no": 67,
+        "picked_by": "1395880798690754560",
+        "player_id": "4037",
+        "reactions": null,
+        "roster_id": 3,
+        "round": 7
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 8,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Christian",
+          "injury_status": "",
+          "last_name": "Watson",
+          "news_updated": "1788183010478",
+          "number": "9",
+          "player_id": "8167",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "GB",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "4"
+        },
+        "pick_no": 68,
+        "picked_by": "1126024356972437504",
+        "player_id": "8167",
+        "reactions": null,
+        "roster_id": 1,
+        "round": 7
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 9,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Rome",
+          "injury_status": "",
+          "last_name": "Odunze",
+          "news_updated": "1788208510963",
+          "number": "15",
+          "player_id": "11620",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "CHI",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "2"
+        },
+        "pick_no": 69,
+        "picked_by": "1395850093722112000",
+        "player_id": "11620",
+        "reactions": null,
+        "roster_id": 8,
         "round": 7
       }
     ]

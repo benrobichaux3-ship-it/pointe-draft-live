@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "drafting",
-  "synced_at": "2026-09-01T02:32:27.154Z",
+  "synced_at": "2026-09-01T02:34:27.194Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -814,7 +814,7 @@
         "type": "snake"
       }
     ],
-    "total_picks": 84,
+    "total_picks": 87,
     "picks": [
       {
         "draft_id": "1395522511403220992",
@@ -2998,6 +2998,84 @@
         "player_id": "10236",
         "reactions": null,
         "roster_id": 7,
+        "round": 9
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 5,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Jonathon",
+          "injury_status": "",
+          "last_name": "Brooks",
+          "news_updated": "1787770248355",
+          "number": "25",
+          "player_id": "11583",
+          "position": "RB",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "CAR",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "2"
+        },
+        "pick_no": 85,
+        "picked_by": "978083733284720640",
+        "player_id": "11583",
+        "reactions": null,
+        "roster_id": 2,
+        "round": 9
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 6,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Courtland",
+          "injury_status": "",
+          "last_name": "Sutton",
+          "news_updated": "1787806560122",
+          "number": "14",
+          "player_id": "5045",
+          "position": "WR",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "DEN",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "8"
+        },
+        "pick_no": 86,
+        "picked_by": "870464495158480896",
+        "player_id": "5045",
+        "reactions": null,
+        "roster_id": 9,
+        "round": 9
+      },
+      {
+        "draft_id": "1395522511403220992",
+        "draft_slot": 7,
+        "is_keeper": null,
+        "metadata": {
+          "first_name": "Dallas",
+          "injury_status": "",
+          "last_name": "Goedert",
+          "news_updated": "1787364929760",
+          "number": "88",
+          "player_id": "5022",
+          "position": "TE",
+          "sport": "nfl",
+          "status": "Active",
+          "team": "PHI",
+          "team_abbr": "",
+          "team_changed_at": "",
+          "years_exp": "8"
+        },
+        "pick_no": 87,
+        "picked_by": "1395880798690754560",
+        "player_id": "5022",
+        "reactions": null,
+        "roster_id": 3,
         "round": 9
       }
     ]

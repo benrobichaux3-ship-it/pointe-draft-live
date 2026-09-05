@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-09-05T21:42:27.831Z",
+  "synced_at": "2026-09-05T21:44:12.641Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -84,7 +84,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "last_message_id": "1400626849016487936",
     "shard": 462,
     "season": "2026",
     "season_type": "regular",
@@ -239,7 +238,7 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "draft_id": "1395522511403220992",
+    "last_message_id": "1400626849016487936",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -249,8 +248,10 @@
     "last_message_time": 1788297972496,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1395522511403220992",
     "league_id": "1395522507427024896",
     "previous_league_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -272,7 +273,6 @@
     ],
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10

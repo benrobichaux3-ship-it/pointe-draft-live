@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-09-07T23:38:59.251Z",
+  "synced_at": "2026-09-07T23:39:06.609Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -247,15 +247,11 @@
     "last_message_text_map": null,
     "last_message_time": 1788297972496,
     "last_pinned_message_id": null,
-    "draft_id": "1395522511403220992",
     "last_read_id": null,
+    "draft_id": "1395522511403220992",
     "league_id": "1395522507427024896",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -275,6 +271,10 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -17847,12 +17847,12 @@
           "adds": {
             "11370": 8
           },
-          "consenter_ids": [
-            8
-          ],
           "drops": {
             "8205": 8
           },
+          "consenter_ids": [
+            8
+          ],
           "roster_ids": [
             8
           ],
@@ -17872,10 +17872,10 @@
           "adds": {
             "4147": 1
           },
+          "drops": null,
           "consenter_ids": [
             1
           ],
-          "drops": null,
           "roster_ids": [
             1
           ],
@@ -17895,12 +17895,12 @@
           "adds": {
             "11834": 6
           },
-          "consenter_ids": [
-            6
-          ],
           "drops": {
             "2078": 6
           },
+          "consenter_ids": [
+            6
+          ],
           "roster_ids": [
             6
           ],
@@ -17920,10 +17920,10 @@
           "adds": {
             "8800": 9
           },
+          "drops": null,
           "consenter_ids": [
             9
           ],
-          "drops": null,
           "roster_ids": [
             9
           ],

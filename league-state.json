@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-09-09T22:24:35.349Z",
+  "synced_at": "2026-09-09T22:26:43.563Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -84,11 +84,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "last_message_id": "1403169743694725120",
     "sport": "nfl",
-    "shard": 462,
-    "season": "2026",
     "season_type": "regular",
+    "season": "2026",
+    "shard": 462,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -239,18 +238,24 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
+    "last_message_id": "1403540078550142976",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1788904245831,
+    "last_message_time": 1788992540541,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1395522511403220992",
     "league_id": "1395522507427024896",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -270,11 +275,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -637,6 +637,7 @@
         "11604",
         "11628",
         "12501",
+        "5844",
         "5927",
         "5967",
         "7523",
@@ -647,7 +648,6 @@
         "8183",
         "8408",
         "9221",
-        "9225",
         "9511"
       ],
       "reserve": null,
@@ -668,7 +668,7 @@
         "7543",
         "7569",
         "7526",
-        "11604",
+        "5844",
         "5927",
         "5967",
         "0",
@@ -17834,6 +17834,31 @@
     {
       "week": 1,
       "data": [
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1788992540508,
+          "settings": null,
+          "leg": 1,
+          "draft_picks": [],
+          "creator": "755957313994764288",
+          "transaction_id": "1403540078411665408",
+          "adds": {
+            "5844": 5
+          },
+          "consenter_ids": [
+            5
+          ],
+          "drops": {
+            "9225": 5
+          },
+          "roster_ids": [
+            5
+          ],
+          "status_updated": 1788992540508,
+          "waiver_budget": []
+        },
         {
           "status": "complete",
           "type": "free_agent",

@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-09-12T03:18:00.864Z",
+  "synced_at": "2026-09-12T03:18:11.010Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -84,6 +84,9 @@
     },
     "avatar": null,
     "company_id": null,
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -234,10 +237,7 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
     "shard": 462,
-    "sport": "nfl",
     "last_message_id": "1404269792336031744",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -251,6 +251,11 @@
     "last_read_id": null,
     "league_id": "1395522507427024896",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -270,11 +275,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -17841,18 +17841,18 @@
           "created": 1789166517840,
           "settings": null,
           "leg": 1,
-          "creator": "755957313994764288",
           "draft_picks": [],
+          "creator": "755957313994764288",
           "transaction_id": "1404269792231256064",
           "adds": {
             "LAC": 5
           },
-          "consenter_ids": [
-            5
-          ],
           "drops": {
             "10219": 5
           },
+          "consenter_ids": [
+            5
+          ],
           "roster_ids": [
             5
           ],
@@ -17866,18 +17866,18 @@
           "created": 1789166484778,
           "settings": null,
           "leg": 1,
-          "creator": "755957313994764288",
           "draft_picks": [],
+          "creator": "755957313994764288",
           "transaction_id": "1404269653554900992",
           "adds": {
             "13545": 5
           },
-          "consenter_ids": [
-            5
-          ],
           "drops": {
             "9511": 5
           },
+          "consenter_ids": [
+            5
+          ],
           "roster_ids": [
             5
           ],
@@ -17891,18 +17891,18 @@
           "created": 1789011066163,
           "settings": null,
           "leg": 1,
-          "creator": "1126024356972437504",
           "draft_picks": [],
+          "creator": "1126024356972437504",
           "transaction_id": "1403617780640616448",
           "adds": {
             "PIT": 1
           },
-          "consenter_ids": [
-            1
-          ],
           "drops": {
             "4147": 1
           },
+          "consenter_ids": [
+            1
+          ],
           "roster_ids": [
             1
           ],
@@ -17916,18 +17916,18 @@
           "created": 1788992540508,
           "settings": null,
           "leg": 1,
-          "creator": "755957313994764288",
           "draft_picks": [],
+          "creator": "755957313994764288",
           "transaction_id": "1403540078411665408",
           "adds": {
             "5844": 5
           },
-          "consenter_ids": [
-            5
-          ],
           "drops": {
             "9225": 5
           },
+          "consenter_ids": [
+            5
+          ],
           "roster_ids": [
             5
           ],
@@ -17941,18 +17941,18 @@
           "created": 1788904245797,
           "settings": null,
           "leg": 1,
-          "creator": "1137571098905919488",
           "draft_picks": [],
+          "creator": "1137571098905919488",
           "transaction_id": "1403169743552159744",
           "adds": {
             "13285": 4
           },
-          "consenter_ids": [
-            4
-          ],
           "drops": {
             "13293": 4
           },
+          "consenter_ids": [
+            4
+          ],
           "roster_ids": [
             4
           ],
@@ -17966,18 +17966,18 @@
           "created": 1788297972474,
           "settings": null,
           "leg": 1,
-          "creator": "1395850093722112000",
           "draft_picks": [],
+          "creator": "1395850093722112000",
           "transaction_id": "1400626848928403456",
           "adds": {
             "11370": 8
           },
-          "consenter_ids": [
-            8
-          ],
           "drops": {
             "8205": 8
           },
+          "consenter_ids": [
+            8
+          ],
           "roster_ids": [
             8
           ],
@@ -17991,16 +17991,16 @@
           "created": 1788291962633,
           "settings": null,
           "leg": 1,
-          "creator": "1126024356972437504",
           "draft_picks": [],
+          "creator": "1126024356972437504",
           "transaction_id": "1400601641828294656",
           "adds": {
             "4147": 1
           },
+          "drops": null,
           "consenter_ids": [
             1
           ],
-          "drops": null,
           "roster_ids": [
             1
           ],
@@ -18014,18 +18014,18 @@
           "created": 1788233560280,
           "settings": null,
           "leg": 1,
-          "creator": "1393702141796814848",
           "draft_picks": [],
+          "creator": "1393702141796814848",
           "transaction_id": "1400356684601241600",
           "adds": {
             "11834": 6
           },
-          "consenter_ids": [
-            6
-          ],
           "drops": {
             "2078": 6
           },
+          "consenter_ids": [
+            6
+          ],
           "roster_ids": [
             6
           ],
@@ -18039,16 +18039,16 @@
           "created": 1788232316139,
           "settings": null,
           "leg": 1,
-          "creator": "870464495158480896",
           "draft_picks": [],
+          "creator": "870464495158480896",
           "transaction_id": "1400351466299887616",
           "adds": {
             "8800": 9
           },
+          "drops": null,
           "consenter_ids": [
             9
           ],
-          "drops": null,
           "roster_ids": [
             9
           ],

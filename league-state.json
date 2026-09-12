@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-09-12T03:18:11.010Z",
+  "synced_at": "2026-09-12T03:40:22.100Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
@@ -87,6 +87,7 @@
     "sport": "nfl",
     "season_type": "regular",
     "season": "2026",
+    "shard": 462,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -237,15 +238,14 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "shard": 462,
-    "last_message_id": "1404269792336031744",
+    "last_message_id": "1404343135416467456",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789166517865,
+    "last_message_time": 1789184004218,
     "last_pinned_message_id": null,
     "draft_id": "1395522511403220992",
     "last_read_id": null,
@@ -254,8 +254,6 @@
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -275,6 +273,8 @@
       "BN",
       "BN"
     ],
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -472,7 +472,25 @@
       "co_owners": null,
       "keepers": null,
       "league_id": "1395522507427024896",
-      "metadata": null,
+      "metadata": {
+        "p_nick_11583": "Brooken knee",
+        "p_nick_11586": "ScoreEm",
+        "p_nick_12514": "Emeka Say Oh, oh oh, oh",
+        "p_nick_12519": "Burden the hand worth two in the bush",
+        "p_nick_12545": "Mother Shougher",
+        "p_nick_13345": "Jonah ICEman",
+        "p_nick_13417": "The Strib Club",
+        "p_nick_2449": "Diggers be crazy",
+        "p_nick_2747": "Kickers dont get names",
+        "p_nick_3198": "Henry the Second Pick",
+        "p_nick_6797": "Just in her butt (before marriage)",
+        "p_nick_6801": "Tee Time for superbowl",
+        "p_nick_7002": "Don’t Juwanna Fanta",
+        "p_nick_8130": "Trey McBetter be worth my 3rd pick",
+        "p_nick_8138": "Let’s cook",
+        "p_nick_9487": "Washing tons of porn",
+        "p_nick_MIN": "Pillage the Village"
+      },
       "owner_id": "978083733284720640",
       "player_map": null,
       "players": [

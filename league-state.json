@@ -3,12 +3,12 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-09-14T14:43:28.337Z",
+  "synced_at": "2026-09-14T14:44:11.845Z",
   "nfl_state": {
     "week": 1,
     "leg": 1,
-    "season_type": "regular",
     "season": "2026",
+    "season_type": "regular",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -84,7 +84,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "last_message_id": "1404861898142326784",
+    "shard": 462,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -235,10 +238,7 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 462,
-    "sport": "nfl",
+    "last_message_id": "1404861898142326784",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -247,10 +247,10 @@
     "last_message_text_map": null,
     "last_message_time": 1789307686891,
     "last_pinned_message_id": null,
-    "draft_id": "1395522511403220992",
-    "last_read_id": null,
     "league_id": "1395522507427024896",
     "previous_league_id": null,
+    "draft_id": "1395522511403220992",
+    "last_read_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
@@ -17872,12 +17872,12 @@
           "adds": {
             "LAC": 5
           },
-          "consenter_ids": [
-            5
-          ],
           "drops": {
             "10219": 5
           },
+          "consenter_ids": [
+            5
+          ],
           "roster_ids": [
             5
           ],
@@ -17897,12 +17897,12 @@
           "adds": {
             "13545": 5
           },
-          "consenter_ids": [
-            5
-          ],
           "drops": {
             "9511": 5
           },
+          "consenter_ids": [
+            5
+          ],
           "roster_ids": [
             5
           ],
@@ -17922,12 +17922,12 @@
           "adds": {
             "PIT": 1
           },
-          "consenter_ids": [
-            1
-          ],
           "drops": {
             "4147": 1
           },
+          "consenter_ids": [
+            1
+          ],
           "roster_ids": [
             1
           ],
@@ -17947,12 +17947,12 @@
           "adds": {
             "5844": 5
           },
-          "consenter_ids": [
-            5
-          ],
           "drops": {
             "9225": 5
           },
+          "consenter_ids": [
+            5
+          ],
           "roster_ids": [
             5
           ],
@@ -17972,12 +17972,12 @@
           "adds": {
             "13285": 4
           },
-          "consenter_ids": [
-            4
-          ],
           "drops": {
             "13293": 4
           },
+          "consenter_ids": [
+            4
+          ],
           "roster_ids": [
             4
           ],
@@ -17997,12 +17997,12 @@
           "adds": {
             "11370": 8
           },
-          "consenter_ids": [
-            8
-          ],
           "drops": {
             "8205": 8
           },
+          "consenter_ids": [
+            8
+          ],
           "roster_ids": [
             8
           ],
@@ -18022,10 +18022,10 @@
           "adds": {
             "4147": 1
           },
+          "drops": null,
           "consenter_ids": [
             1
           ],
-          "drops": null,
           "roster_ids": [
             1
           ],
@@ -18045,12 +18045,12 @@
           "adds": {
             "11834": 6
           },
-          "consenter_ids": [
-            6
-          ],
           "drops": {
             "2078": 6
           },
+          "consenter_ids": [
+            6
+          ],
           "roster_ids": [
             6
           ],
@@ -18070,10 +18070,10 @@
           "adds": {
             "8800": 9
           },
+          "drops": null,
           "consenter_ids": [
             9
           ],
-          "drops": null,
           "roster_ids": [
             9
           ],

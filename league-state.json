@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-09-16T21:22:17.332Z",
+  "synced_at": "2026-09-16T21:26:11.734Z",
   "nfl_state": {
     "week": 2,
     "season_type": "regular",
@@ -86,11 +86,7 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 462,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "last_message_id": "1405928521527840768",
+    "last_message_id": "1406060689897816064",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -241,21 +237,25 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 462,
+    "sport": "nfl",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789561989723,
+    "last_message_time": 1789593501117,
     "last_pinned_message_id": null,
-    "draft_id": "1395522511403220992",
     "last_read_id": null,
+    "draft_id": "1395522511403220992",
     "league_id": "1395522507427024896",
     "previous_league_id": null,
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "roster_positions": [
@@ -442,7 +442,7 @@
         "8167",
         "9224",
         "9754",
-        "LAR",
+        "KC",
         "PIT"
       ],
       "reserve": [
@@ -474,7 +474,7 @@
         "8146",
         "11646",
         "11786",
-        "PIT"
+        "KC"
       ],
       "taxi": null
     },
@@ -18250,6 +18250,31 @@
     {
       "week": 2,
       "data": [
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1789593501089,
+          "settings": null,
+          "leg": 2,
+          "draft_picks": [],
+          "creator": "1126024356972437504",
+          "transaction_id": "1406060689776291840",
+          "adds": {
+            "KC": 1
+          },
+          "consenter_ids": [
+            1
+          ],
+          "drops": {
+            "LAR": 1
+          },
+          "roster_ids": [
+            1
+          ],
+          "status_updated": 1789593501089,
+          "waiver_budget": []
+        },
         {
           "status": "complete",
           "type": "free_agent",

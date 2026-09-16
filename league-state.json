@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-09-16T21:26:11.734Z",
+  "synced_at": "2026-09-16T23:14:13.719Z",
   "nfl_state": {
     "week": 2,
     "season_type": "regular",
@@ -316,6 +316,7 @@
       "league_id": "1395522507427024896",
       "metadata": {
         "allow_pn": "on",
+        "archived": "off",
         "mention_pn": "on"
       },
       "settings": null,

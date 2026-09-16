@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-09-16T15:33:57.711Z",
+  "synced_at": "2026-09-16T15:36:11.520Z",
   "nfl_state": {
     "week": 2,
     "season_type": "regular",
@@ -86,10 +86,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 462,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 462,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -248,11 +248,12 @@
     "last_message_attachment": null,
     "last_message_text_map": null,
     "last_message_time": 1789561989723,
-    "draft_id": "1395522511403220992",
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1395522511403220992",
     "league_id": "1395522507427024896",
     "previous_league_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -274,7 +275,6 @@
     ],
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -18263,12 +18263,12 @@
           "adds": {
             "4066": 8
           },
-          "drops": {
-            "10222": 8
-          },
           "consenter_ids": [
             8
           ],
+          "drops": {
+            "10222": 8
+          },
           "roster_ids": [
             8
           ],
@@ -18288,12 +18288,12 @@
           "adds": {
             "12492": 8
           },
-          "drops": {
-            "8110": 8
-          },
           "consenter_ids": [
             8
           ],
+          "drops": {
+            "8110": 8
+          },
           "roster_ids": [
             8
           ],
@@ -18313,12 +18313,12 @@
           "adds": {
             "SF": 8
           },
-          "drops": {
-            "11655": 8
-          },
           "consenter_ids": [
             8
           ],
+          "drops": {
+            "11655": 8
+          },
           "roster_ids": [
             8
           ],

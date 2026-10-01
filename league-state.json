@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-10-01T01:52:08.252Z",
+  "synced_at": "2026-10-01T08:38:07.058Z",
   "nfl_state": {
     "week": 4,
     "leg": 4,
@@ -19219,10 +19219,10 @@
           "adds": {
             "9757": 9
           },
+          "drops": null,
           "consenter_ids": [
             9
           ],
-          "drops": null,
           "roster_ids": [
             9
           ],
@@ -19242,12 +19242,12 @@
           "adds": {
             "12495": 2
           },
-          "consenter_ids": [
-            2
-          ],
           "drops": {
             "11435": 2
           },
+          "consenter_ids": [
+            2
+          ],
           "roster_ids": [
             2
           ],

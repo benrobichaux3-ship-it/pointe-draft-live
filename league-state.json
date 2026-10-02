@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-10-02T20:42:10.290Z",
+  "synced_at": "2026-10-02T21:56:12.049Z",
   "nfl_state": {
     "week": 4,
     "leg": 4,
@@ -86,6 +86,9 @@
     },
     "avatar": null,
     "company_id": null,
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -236,23 +239,22 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
     "shard": 462,
-    "sport": "nfl",
-    "last_message_id": "1411838336011694080",
+    "last_message_id": "1411867748438388736",
+    "draft_id": "1395522511403220992",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790970999294,
+    "last_message_time": 1790978011763,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1395522511403220992",
     "league_id": "1395522507427024896",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
     "roster_positions": [
       "QB",
@@ -273,8 +275,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -712,10 +712,10 @@
         "8408",
         "9221",
         "9225",
-        "CAR"
+        "BAL"
       ],
       "reserve": [
-        "7569",
+        "7543",
         "8408"
       ],
       "roster_id": 5,
@@ -735,16 +735,16 @@
         "wins": 2
       },
       "starters": [
-        "8183",
+        "7523",
         "9221",
         "5967",
-        "5927",
+        "7569",
         "7526",
         "11604",
         "13346",
         "12501",
         "13545",
-        "CAR"
+        "BAL"
       ],
       "taxi": null
     },
@@ -7959,22 +7959,22 @@
             "8408",
             "9221",
             "9225",
-            "CAR"
+            "BAL"
           ],
           "roster_id": 5,
           "custom_points": null,
           "matchup_id": 1,
           "starters": [
-            "8183",
+            "7523",
             "9221",
             "5967",
-            "5927",
+            "7569",
             "7526",
             "11604",
             "13346",
             "12501",
             "13545",
-            "CAR"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -8007,7 +8007,7 @@
             "12501": 0,
             "13346": 10.9,
             "13545": 0,
-            "CAR": 0
+            "BAL": 0
           }
         },
         {
@@ -8664,22 +8664,22 @@
             "8408",
             "9221",
             "9225",
-            "CAR"
+            "BAL"
           ],
           "roster_id": 5,
           "custom_points": null,
           "matchup_id": 2,
           "starters": [
-            "8183",
+            "7523",
             "9221",
             "5967",
-            "5927",
+            "7569",
             "7526",
             "11604",
             "13346",
             "12501",
             "13545",
-            "CAR"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -8712,7 +8712,7 @@
             "12501": 0,
             "13346": 0,
             "13545": 0,
-            "CAR": 0
+            "BAL": 0
           }
         },
         {
@@ -9369,22 +9369,22 @@
             "8408",
             "9221",
             "9225",
-            "CAR"
+            "BAL"
           ],
           "roster_id": 5,
           "custom_points": null,
           "matchup_id": 3,
           "starters": [
-            "8183",
+            "7523",
             "9221",
             "5967",
-            "5927",
+            "7569",
             "7526",
             "11604",
             "13346",
             "12501",
             "13545",
-            "CAR"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -9417,7 +9417,7 @@
             "12501": 0,
             "13346": 0,
             "13545": 0,
-            "CAR": 0
+            "BAL": 0
           }
         },
         {
@@ -10074,22 +10074,22 @@
             "8408",
             "9221",
             "9225",
-            "CAR"
+            "BAL"
           ],
           "roster_id": 5,
           "custom_points": null,
           "matchup_id": 4,
           "starters": [
-            "8183",
+            "7523",
             "9221",
             "5967",
-            "5927",
+            "7569",
             "7526",
             "11604",
             "13346",
             "12501",
             "13545",
-            "CAR"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -10122,7 +10122,7 @@
             "12501": 0,
             "13346": 0,
             "13545": 0,
-            "CAR": 0
+            "BAL": 0
           }
         },
         {
@@ -10779,22 +10779,22 @@
             "8408",
             "9221",
             "9225",
-            "CAR"
+            "BAL"
           ],
           "roster_id": 5,
           "custom_points": null,
           "matchup_id": 5,
           "starters": [
-            "8183",
+            "7523",
             "9221",
             "5967",
-            "5927",
+            "7569",
             "7526",
             "11604",
             "13346",
             "12501",
             "13545",
-            "CAR"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -10827,7 +10827,7 @@
             "12501": 0,
             "13346": 0,
             "13545": 0,
-            "CAR": 0
+            "BAL": 0
           }
         },
         {
@@ -11484,22 +11484,22 @@
             "8408",
             "9221",
             "9225",
-            "CAR"
+            "BAL"
           ],
           "roster_id": 5,
           "custom_points": null,
           "matchup_id": 5,
           "starters": [
-            "8183",
+            "7523",
             "9221",
             "5967",
-            "5927",
+            "7569",
             "7526",
             "11604",
             "13346",
             "12501",
             "13545",
-            "CAR"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -11532,7 +11532,7 @@
             "12501": 0,
             "13346": 0,
             "13545": 0,
-            "CAR": 0
+            "BAL": 0
           }
         },
         {
@@ -12189,22 +12189,22 @@
             "8408",
             "9221",
             "9225",
-            "CAR"
+            "BAL"
           ],
           "roster_id": 5,
           "custom_points": null,
           "matchup_id": 4,
           "starters": [
-            "8183",
+            "7523",
             "9221",
             "5967",
-            "5927",
+            "7569",
             "7526",
             "11604",
             "13346",
             "12501",
             "13545",
-            "CAR"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -12237,7 +12237,7 @@
             "12501": 0,
             "13346": 0,
             "13545": 0,
-            "CAR": 0
+            "BAL": 0
           }
         },
         {
@@ -12894,22 +12894,22 @@
             "8408",
             "9221",
             "9225",
-            "CAR"
+            "BAL"
           ],
           "roster_id": 5,
           "custom_points": null,
           "matchup_id": 3,
           "starters": [
-            "8183",
+            "7523",
             "9221",
             "5967",
-            "5927",
+            "7569",
             "7526",
             "11604",
             "13346",
             "12501",
             "13545",
-            "CAR"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -12942,7 +12942,7 @@
             "12501": 0,
             "13346": 0,
             "13545": 0,
-            "CAR": 0
+            "BAL": 0
           }
         },
         {
@@ -13599,22 +13599,22 @@
             "8408",
             "9221",
             "9225",
-            "CAR"
+            "BAL"
           ],
           "roster_id": 5,
           "custom_points": null,
           "matchup_id": 2,
           "starters": [
-            "8183",
+            "7523",
             "9221",
             "5967",
-            "5927",
+            "7569",
             "7526",
             "11604",
             "13346",
             "12501",
             "13545",
-            "CAR"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -13647,7 +13647,7 @@
             "12501": 0,
             "13346": 0,
             "13545": 0,
-            "CAR": 0
+            "BAL": 0
           }
         },
         {
@@ -14304,22 +14304,22 @@
             "8408",
             "9221",
             "9225",
-            "CAR"
+            "BAL"
           ],
           "roster_id": 5,
           "custom_points": null,
           "matchup_id": 1,
           "starters": [
-            "8183",
+            "7523",
             "9221",
             "5967",
-            "5927",
+            "7569",
             "7526",
             "11604",
             "13346",
             "12501",
             "13545",
-            "CAR"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -14352,7 +14352,7 @@
             "12501": 0,
             "13346": 0,
             "13545": 0,
-            "CAR": 0
+            "BAL": 0
           }
         },
         {
@@ -15009,22 +15009,22 @@
             "8408",
             "9221",
             "9225",
-            "CAR"
+            "BAL"
           ],
           "roster_id": 5,
           "custom_points": null,
           "matchup_id": 2,
           "starters": [
-            "8183",
+            "7523",
             "9221",
             "5967",
-            "5927",
+            "7569",
             "7526",
             "11604",
             "13346",
             "12501",
             "13545",
-            "CAR"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -15057,7 +15057,7 @@
             "12501": 0,
             "13346": 0,
             "13545": 0,
-            "CAR": 0
+            "BAL": 0
           }
         },
         {
@@ -15714,22 +15714,22 @@
             "8408",
             "9221",
             "9225",
-            "CAR"
+            "BAL"
           ],
           "roster_id": 5,
           "custom_points": null,
           "matchup_id": 3,
           "starters": [
-            "8183",
+            "7523",
             "9221",
             "5967",
-            "5927",
+            "7569",
             "7526",
             "11604",
             "13346",
             "12501",
             "13545",
-            "CAR"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -15762,7 +15762,7 @@
             "12501": 0,
             "13346": 0,
             "13545": 0,
-            "CAR": 0
+            "BAL": 0
           }
         },
         {
@@ -16419,22 +16419,22 @@
             "8408",
             "9221",
             "9225",
-            "CAR"
+            "BAL"
           ],
           "roster_id": 5,
           "custom_points": null,
           "matchup_id": 4,
           "starters": [
-            "8183",
+            "7523",
             "9221",
             "5967",
-            "5927",
+            "7569",
             "7526",
             "11604",
             "13346",
             "12501",
             "13545",
-            "CAR"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -16467,7 +16467,7 @@
             "12501": 0,
             "13346": 0,
             "13545": 0,
-            "CAR": 0
+            "BAL": 0
           }
         },
         {
@@ -17124,22 +17124,22 @@
             "8408",
             "9221",
             "9225",
-            "CAR"
+            "BAL"
           ],
           "roster_id": 5,
           "custom_points": null,
           "matchup_id": 5,
           "starters": [
-            "8183",
+            "7523",
             "9221",
             "5967",
-            "5927",
+            "7569",
             "7526",
             "11604",
             "13346",
             "12501",
             "13545",
-            "CAR"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -17172,7 +17172,7 @@
             "12501": 0,
             "13346": 0,
             "13545": 0,
-            "CAR": 0
+            "BAL": 0
           }
         },
         {
@@ -17829,22 +17829,22 @@
             "8408",
             "9221",
             "9225",
-            "CAR"
+            "BAL"
           ],
           "roster_id": 5,
           "custom_points": null,
           "matchup_id": 5,
           "starters": [
-            "8183",
+            "7523",
             "9221",
             "5967",
-            "5927",
+            "7569",
             "7526",
             "11604",
             "13346",
             "12501",
             "13545",
-            "CAR"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -17877,7 +17877,7 @@
             "12501": 0,
             "13346": 0,
             "13545": 0,
-            "CAR": 0
+            "BAL": 0
           }
         },
         {
@@ -19243,6 +19243,31 @@
           "status": "complete",
           "type": "free_agent",
           "metadata": null,
+          "created": 1790978011734,
+          "settings": null,
+          "leg": 4,
+          "draft_picks": [],
+          "creator": "755957313994764288",
+          "transaction_id": "1411867748316827648",
+          "adds": {
+            "BAL": 5
+          },
+          "consenter_ids": [
+            5
+          ],
+          "drops": {
+            "CAR": 5
+          },
+          "roster_ids": [
+            5
+          ],
+          "status_updated": 1790978011734,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
           "created": 1790970999268,
           "settings": null,
           "leg": 4,
@@ -19252,10 +19277,10 @@
           "adds": {
             "5947": 7
           },
-          "drops": null,
           "consenter_ids": [
             7
           ],
+          "drops": null,
           "roster_ids": [
             7
           ],
@@ -19275,12 +19300,12 @@
           "adds": {
             "9758": 7
           },
-          "drops": {
-            "6804": 7
-          },
           "consenter_ids": [
             7
           ],
+          "drops": {
+            "6804": 7
+          },
           "roster_ids": [
             7
           ],
@@ -19300,12 +19325,12 @@
           "adds": {
             "11571": 3
           },
-          "drops": {
-            "8132": 3
-          },
           "consenter_ids": [
             3
           ],
+          "drops": {
+            "8132": 3
+          },
           "roster_ids": [
             3
           ],
@@ -19325,10 +19350,10 @@
           "adds": {
             "9757": 9
           },
-          "drops": null,
           "consenter_ids": [
             9
           ],
+          "drops": null,
           "roster_ids": [
             9
           ],
@@ -19348,12 +19373,12 @@
           "adds": {
             "12495": 2
           },
-          "drops": {
-            "11435": 2
-          },
           "consenter_ids": [
             2
           ],
+          "drops": {
+            "11435": 2
+          },
           "roster_ids": [
             2
           ],

@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-10-07T08:31:03.965Z",
+  "synced_at": "2026-10-07T08:34:50.562Z",
   "nfl_state": {
     "week": 5,
     "leg": 5,
@@ -20084,11 +20084,36 @@
           "status": "complete",
           "type": "free_agent",
           "metadata": null,
+          "created": 1791361631600,
+          "settings": null,
+          "leg": 5,
+          "creator": "755957313994764288",
+          "draft_picks": [],
+          "transaction_id": "1413476766655254528",
+          "adds": {
+            "8154": 5
+          },
+          "drops": {
+            "13264": 5
+          },
+          "consenter_ids": [
+            5
+          ],
+          "roster_ids": [
+            5
+          ],
+          "status_updated": 1791361631600,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
           "created": 1791360999804,
           "settings": null,
           "leg": 5,
-          "draft_picks": [],
           "creator": "755957313994764288",
+          "draft_picks": [],
           "transaction_id": "1413474116710752256",
           "adds": {
             "13264": 5

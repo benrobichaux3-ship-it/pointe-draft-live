@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-10-07T04:24:52.589Z",
+  "synced_at": "2026-10-07T07:02:49.661Z",
   "nfl_state": {
     "week": 5,
     "leg": 5,
@@ -12,7 +12,7 @@
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
-    "display_week": 4,
+    "display_week": 5,
     "league_create_season": "2026",
     "season_has_scores": true
   },

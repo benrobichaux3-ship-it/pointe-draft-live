@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-10-14T11:40:24.759Z",
+  "synced_at": "2026-10-14T11:42:18.183Z",
   "nfl_state": {
     "week": 6,
     "leg": 6,
@@ -85,8 +85,10 @@
       "daily_waivers_last_ran": 31
     },
     "avatar": null,
-    "company_id": null,
-    "last_message_id": "1415995328728924160",
+    "shard": 462,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -237,22 +239,25 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "shard": 462,
+    "company_id": null,
+    "last_message_id": "1416061008140599296",
+    "draft_id": "1395522511403220992",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
-    "draft_id": "1395522511403220992",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791962103591,
+    "last_message_time": 1791977762783,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1395522507427024896",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -272,11 +277,6 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -428,11 +428,11 @@
       "player_map": null,
       "players": [
         "11646",
+        "11786",
         "11792",
         "12518",
         "12533",
         "13281",
-        "3634",
         "4217",
         "4984",
         "6806",
@@ -474,7 +474,7 @@
         "4217",
         "11646",
         "12518",
-        "0",
+        "11786",
         "KC"
       ],
       "taxi": null
@@ -20586,7 +20586,33 @@
     },
     {
       "week": 6,
-      "data": []
+      "data": [
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1791977762756,
+          "settings": null,
+          "leg": 6,
+          "draft_picks": [],
+          "creator": "1126024356972437504",
+          "transaction_id": "1416061008027320320",
+          "adds": {
+            "11786": 1
+          },
+          "drops": {
+            "3634": 1
+          },
+          "consenter_ids": [
+            1
+          ],
+          "roster_ids": [
+            1
+          ],
+          "status_updated": 1791977762756,
+          "waiver_budget": []
+        }
+      ]
     },
     {
       "week": 7,

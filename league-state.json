@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-10-14T14:12:19.338Z",
+  "synced_at": "2026-10-14T18:02:17.961Z",
   "nfl_state": {
     "week": 6,
     "leg": 6,
@@ -1012,7 +1012,7 @@
         "wins": 3
       },
       "starters": [
-        "0",
+        "6804",
         "11584",
         "8228",
         "9493",
@@ -9660,7 +9660,7 @@
           "custom_points": null,
           "matchup_id": 1,
           "starters": [
-            "0",
+            "6804",
             "11584",
             "8228",
             "9493",
@@ -10365,7 +10365,7 @@
           "custom_points": null,
           "matchup_id": 2,
           "starters": [
-            "0",
+            "6804",
             "11584",
             "8228",
             "9493",
@@ -11070,7 +11070,7 @@
           "custom_points": null,
           "matchup_id": 3,
           "starters": [
-            "0",
+            "6804",
             "11584",
             "8228",
             "9493",
@@ -11775,7 +11775,7 @@
           "custom_points": null,
           "matchup_id": 4,
           "starters": [
-            "0",
+            "6804",
             "11584",
             "8228",
             "9493",
@@ -12480,7 +12480,7 @@
           "custom_points": null,
           "matchup_id": 5,
           "starters": [
-            "0",
+            "6804",
             "11584",
             "8228",
             "9493",
@@ -13185,7 +13185,7 @@
           "custom_points": null,
           "matchup_id": 5,
           "starters": [
-            "0",
+            "6804",
             "11584",
             "8228",
             "9493",
@@ -13890,7 +13890,7 @@
           "custom_points": null,
           "matchup_id": 4,
           "starters": [
-            "0",
+            "6804",
             "11584",
             "8228",
             "9493",
@@ -14595,7 +14595,7 @@
           "custom_points": null,
           "matchup_id": 3,
           "starters": [
-            "0",
+            "6804",
             "11584",
             "8228",
             "9493",
@@ -15300,7 +15300,7 @@
           "custom_points": null,
           "matchup_id": 2,
           "starters": [
-            "0",
+            "6804",
             "11584",
             "8228",
             "9493",
@@ -16005,7 +16005,7 @@
           "custom_points": null,
           "matchup_id": 1,
           "starters": [
-            "0",
+            "6804",
             "11584",
             "8228",
             "9493",
@@ -16710,7 +16710,7 @@
           "custom_points": null,
           "matchup_id": 2,
           "starters": [
-            "0",
+            "6804",
             "11584",
             "8228",
             "9493",
@@ -17415,7 +17415,7 @@
           "custom_points": null,
           "matchup_id": 3,
           "starters": [
-            "0",
+            "6804",
             "11584",
             "8228",
             "9493",
@@ -18120,7 +18120,7 @@
           "custom_points": null,
           "matchup_id": 4,
           "starters": [
-            "0",
+            "6804",
             "11584",
             "8228",
             "9493",

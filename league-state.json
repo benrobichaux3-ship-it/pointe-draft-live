@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-10-19T20:14:28.339Z",
+  "synced_at": "2026-10-19T21:00:31.225Z",
   "nfl_state": {
     "week": 6,
     "leg": 6,
@@ -448,6 +448,7 @@
         "KC"
       ],
       "reserve": [
+        "12533",
         "13281"
       ],
       "roster_id": 1,

@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-10-21T20:48:25.775Z",
+  "synced_at": "2026-10-21T22:00:25.917Z",
   "nfl_state": {
     "week": 7,
     "leg": 7,
@@ -11091,7 +11091,7 @@
           "custom_points": null,
           "matchup_id": 3,
           "starters": [
-            "6804",
+            "3163",
             "11584",
             "8228",
             "9493",
@@ -11100,7 +11100,7 @@
             "12526",
             "11576",
             "11533",
-            "JAX"
+            "NYJ"
           ],
           "starters_points": [
             0,

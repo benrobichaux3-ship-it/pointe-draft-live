@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-10-28T03:30:52.583Z",
+  "synced_at": "2026-10-28T05:00:52.629Z",
   "nfl_state": {
     "week": 8,
     "leg": 8,
@@ -601,7 +601,7 @@
         "fpts": 658,
         "fpts_against": 837,
         "fpts_against_decimal": 30,
-        "fpts_decimal": 52,
+        "fpts_decimal": 42,
         "losses": 7,
         "ppts": 738,
         "ppts_decimal": 70,
@@ -796,7 +796,7 @@
       "settings": {
         "fpts": 934,
         "fpts_against": 895,
-        "fpts_against_decimal": 36,
+        "fpts_against_decimal": 26,
         "fpts_decimal": 18,
         "losses": 3,
         "ppts": 1065,

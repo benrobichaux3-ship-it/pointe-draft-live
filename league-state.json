@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-10-30T06:30:01.569Z",
+  "synced_at": "2026-10-30T06:32:01.552Z",
   "nfl_state": {
     "week": 8,
     "leg": 8,
@@ -240,24 +240,22 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1421166680108789760",
+    "last_message_id": "1421780857424769024",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793195049840,
+    "last_message_time": 1793341481123,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1395522511403220992",
+    "last_read_id": null,
     "league_id": "1395522507427024896",
     "previous_league_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -277,6 +275,8 @@
       "BN",
       "BN"
     ],
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -465,7 +465,7 @@
         "total_moves": 0,
         "waiver_adjusted": 8,
         "waiver_budget_used": 0,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 4
       },
       "starters": [
@@ -542,7 +542,7 @@
         "total_moves": 0,
         "waiver_adjusted": 8,
         "waiver_budget_used": 0,
-        "waiver_position": 6,
+        "waiver_position": 5,
         "wins": 6
       },
       "starters": [
@@ -606,7 +606,7 @@
         "total_moves": 0,
         "waiver_adjusted": 8,
         "waiver_budget_used": 0,
-        "waiver_position": 7,
+        "waiver_position": 6,
         "wins": 0
       },
       "starters": [
@@ -733,7 +733,7 @@
         "total_moves": 0,
         "waiver_adjusted": 8,
         "waiver_budget_used": 0,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 2
       },
       "starters": [
@@ -771,7 +771,6 @@
         "11610",
         "11631",
         "11635",
-        "11637",
         "11834",
         "12489",
         "1466",
@@ -784,6 +783,7 @@
         "8142",
         "8150",
         "9484",
+        "CLE",
         "SEA"
       ],
       "reserve": [
@@ -802,7 +802,7 @@
         "total_moves": 0,
         "waiver_adjusted": 8,
         "waiver_budget_used": 0,
-        "waiver_position": 4,
+        "waiver_position": 9,
         "wins": 4
       },
       "starters": [
@@ -841,8 +841,8 @@
         "5892",
         "5947",
         "7525",
+        "7567",
         "8112",
-        "8129",
         "8151",
         "9756",
         "9758",
@@ -850,8 +850,7 @@
         "PIT"
       ],
       "reserve": [
-        "5872",
-        "8129"
+        "5872"
       ],
       "roster_id": 7,
       "settings": {
@@ -1008,7 +1007,7 @@
         "total_moves": 0,
         "waiver_adjusted": 8,
         "waiver_budget_used": 0,
-        "waiver_position": 5,
+        "waiver_position": 4,
         "wins": 5
       },
       "starters": [

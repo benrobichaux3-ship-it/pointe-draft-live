@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-11-03T22:26:40.134Z",
+  "synced_at": "2026-11-03T23:26:40.138Z",
   "nfl_state": {
     "week": 9,
     "leg": 9,
@@ -528,7 +528,9 @@
         "9487",
         "MIN"
       ],
-      "reserve": null,
+      "reserve": [
+        "12514"
+      ],
       "roster_id": 2,
       "settings": {
         "fpts": 1029,

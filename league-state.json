@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-11-03T15:56:40.150Z",
+  "synced_at": "2026-11-03T16:24:40.175Z",
   "nfl_state": {
     "week": 9,
     "leg": 9,
@@ -11309,7 +11309,7 @@
           "custom_points": null,
           "matchup_id": 2,
           "starters": [
-            "9228",
+            "12545",
             "3198",
             "8138",
             "6801",
@@ -12020,7 +12020,7 @@
           "custom_points": null,
           "matchup_id": 1,
           "starters": [
-            "9228",
+            "12545",
             "3198",
             "8138",
             "6801",
@@ -12731,7 +12731,7 @@
           "custom_points": null,
           "matchup_id": 2,
           "starters": [
-            "9228",
+            "12545",
             "3198",
             "8138",
             "6801",
@@ -13442,7 +13442,7 @@
           "custom_points": null,
           "matchup_id": 3,
           "starters": [
-            "9228",
+            "12545",
             "3198",
             "8138",
             "6801",
@@ -14153,7 +14153,7 @@
           "custom_points": null,
           "matchup_id": 4,
           "starters": [
-            "9228",
+            "12545",
             "3198",
             "8138",
             "6801",
@@ -14864,7 +14864,7 @@
           "custom_points": null,
           "matchup_id": 5,
           "starters": [
-            "9228",
+            "12545",
             "3198",
             "8138",
             "6801",
@@ -15575,7 +15575,7 @@
           "custom_points": null,
           "matchup_id": 5,
           "starters": [
-            "9228",
+            "12545",
             "3198",
             "8138",
             "6801",
@@ -16286,7 +16286,7 @@
           "custom_points": null,
           "matchup_id": 4,
           "starters": [
-            "9228",
+            "12545",
             "3198",
             "8138",
             "6801",
@@ -16997,7 +16997,7 @@
           "custom_points": null,
           "matchup_id": 3,
           "starters": [
-            "9228",
+            "12545",
             "3198",
             "8138",
             "6801",
@@ -17708,7 +17708,7 @@
           "custom_points": null,
           "matchup_id": 2,
           "starters": [
-            "9228",
+            "12545",
             "3198",
             "8138",
             "6801",

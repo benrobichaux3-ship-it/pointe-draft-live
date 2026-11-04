@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-11-04T14:16:40.142Z",
+  "synced_at": "2026-11-04T14:20:40.228Z",
   "nfl_state": {
     "week": 9,
     "leg": 9,
@@ -86,6 +86,10 @@
     },
     "avatar": null,
     "company_id": null,
+    "shard": 462,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -236,19 +240,15 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 462,
-    "sport": "nfl",
-    "last_message_id": "1423710306806378496",
-    "draft_id": "1395522511403220992",
+    "last_message_id": "1423710889936248832",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
+    "draft_id": "1395522511403220992",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793801497702,
+    "last_message_time": 1793801636732,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1395522507427024896",
@@ -522,6 +522,7 @@
         "4943",
         "6801",
         "7002",
+        "7839",
         "8130",
         "8138",
         "9487",
@@ -545,7 +546,7 @@
         "wins": 7
       },
       "starters": [
-        "12545",
+        "4943",
         "13345",
         "8138",
         "6801",
@@ -553,7 +554,7 @@
         "8130",
         "12519",
         "12495",
-        "0",
+        "7839",
         "MIN"
       ],
       "taxi": null

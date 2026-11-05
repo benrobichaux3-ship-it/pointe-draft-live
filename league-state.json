@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-11-05T17:18:40.267Z",
+  "synced_at": "2026-11-05T17:20:40.217Z",
   "nfl_state": {
     "week": 9,
     "leg": 9,
@@ -240,21 +240,19 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1423789023230447616",
+    "last_message_id": "1424119051218653184",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793820265160,
+    "last_message_time": 1793898949964,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1395522511403220992",
+    "last_read_id": null,
     "league_id": "1395522507427024896",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
     "roster_positions": [
       "QB",
@@ -275,6 +273,8 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -647,11 +647,11 @@
         "13286",
         "13296",
         "3271",
-        "7561",
         "7564",
         "8136",
         "8148",
-        "LV"
+        "LV",
+        "NYG"
       ],
       "reserve": [
         "11577"
@@ -682,7 +682,7 @@
         "7564",
         "11632",
         "12185",
-        "LV"
+        "NYG"
       ],
       "taxi": null
     },
@@ -22148,6 +22148,31 @@
     {
       "week": 9,
       "data": [
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1793898949928,
+          "settings": null,
+          "leg": 9,
+          "draft_picks": [],
+          "creator": "1137571098905919488",
+          "transaction_id": "1424119051067650048",
+          "adds": {
+            "NYG": 4
+          },
+          "drops": {
+            "7561": 4
+          },
+          "consenter_ids": [
+            4
+          ],
+          "roster_ids": [
+            4
+          ],
+          "status_updated": 1793898949928,
+          "waiver_budget": []
+        },
         {
           "status": "complete",
           "type": "free_agent",

@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-11-06T00:02:40.148Z",
+  "synced_at": "2026-11-06T00:14:40.123Z",
   "nfl_state": {
     "week": 9,
     "leg": 9,
@@ -240,20 +240,24 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1424119051218653184",
+    "last_message_id": "1424223683714592768",
+    "draft_id": "1395522511403220992",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793898949964,
+    "last_message_time": 1793923896295,
     "last_pinned_message_id": null,
-    "draft_id": "1395522511403220992",
     "last_read_id": null,
     "league_id": "1395522507427024896",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -273,10 +277,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -950,7 +950,7 @@
       "metadata": {
         "p_nick_11533": "Lets go",
         "p_nick_11576": "Allen that pussy",
-        "p_nick_11584": "Bucky sucky",
+        "p_nick_11584": "Knuck if you buck",
         "p_nick_12517": "Dont love water but i",
         "p_nick_12526": "Big tets",
         "p_nick_13279": "Lil tates",

@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-11-07T04:20:16.540Z",
+  "synced_at": "2026-11-07T04:32:16.531Z",
   "nfl_state": {
     "week": 9,
     "leg": 9,
@@ -22152,6 +22152,31 @@
           "status": "complete",
           "type": "free_agent",
           "metadata": null,
+          "created": 1794025043267,
+          "settings": null,
+          "leg": 9,
+          "draft_picks": [],
+          "creator": "978083733284720640",
+          "transaction_id": "1424647924859543552",
+          "adds": {
+            "9758": 2
+          },
+          "consenter_ids": [
+            2
+          ],
+          "drops": {
+            "8161": 2
+          },
+          "roster_ids": [
+            2
+          ],
+          "status_updated": 1794025043267,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
           "created": 1793940633310,
           "settings": null,
           "leg": 9,
@@ -22161,12 +22186,12 @@
           "adds": {
             "CHI": 6
           },
-          "drops": {
-            "CLE": 6
-          },
           "consenter_ids": [
             6
           ],
+          "drops": {
+            "CLE": 6
+          },
           "roster_ids": [
             6
           ],
@@ -22186,12 +22211,12 @@
           "adds": {
             "NYG": 4
           },
-          "drops": {
-            "7561": 4
-          },
           "consenter_ids": [
             4
           ],
+          "drops": {
+            "7561": 4
+          },
           "roster_ids": [
             4
           ],
@@ -22211,12 +22236,12 @@
           "adds": {
             "8161": 2
           },
-          "drops": {
-            "4943": 2
-          },
           "consenter_ids": [
             2
           ],
+          "drops": {
+            "4943": 2
+          },
           "roster_ids": [
             2
           ],
@@ -22236,10 +22261,10 @@
           "adds": {
             "7839": 2
           },
-          "drops": null,
           "consenter_ids": [
             2
           ],
+          "drops": null,
           "roster_ids": [
             2
           ],
@@ -22257,12 +22282,12 @@
           "creator": "978083733284720640",
           "transaction_id": "1423710306659532800",
           "adds": null,
-          "drops": {
-            "1945": 2
-          },
           "consenter_ids": [
             2
           ],
+          "drops": {
+            "1945": 2
+          },
           "roster_ids": [
             2
           ],
@@ -22280,12 +22305,12 @@
           "creator": "978083733284720640",
           "transaction_id": "1423709859072819200",
           "adds": null,
-          "drops": {
-            "9228": 2
-          },
           "consenter_ids": [
             2
           ],
+          "drops": {
+            "9228": 2
+          },
           "roster_ids": [
             2
           ],
@@ -22305,12 +22330,12 @@
           "adds": {
             "11783": 4
           },
-          "drops": {
-            "11435": 4
-          },
           "consenter_ids": [
             4
           ],
+          "drops": {
+            "11435": 4
+          },
           "roster_ids": [
             4
           ],
@@ -22330,12 +22355,12 @@
           "adds": {
             "HOU": 7
           },
-          "drops": {
-            "4147": 7
-          },
           "consenter_ids": [
             7
           ],
+          "drops": {
+            "4147": 7
+          },
           "roster_ids": [
             7
           ],
@@ -22353,12 +22378,12 @@
           "creator": "1303442724602523648",
           "transaction_id": "1423674341484249088",
           "adds": null,
-          "drops": {
-            "7567": 7
-          },
           "consenter_ids": [
             7
           ],
+          "drops": {
+            "7567": 7
+          },
           "roster_ids": [
             7
           ],
@@ -22376,12 +22401,12 @@
           "creator": "1303442724602523648",
           "transaction_id": "1423673940592644096",
           "adds": null,
-          "drops": {
-            "9758": 7
-          },
           "consenter_ids": [
             7
           ],
+          "drops": {
+            "9758": 7
+          },
           "roster_ids": [
             7
           ],

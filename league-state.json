@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-11-10T07:42:30.088Z",
+  "synced_at": "2026-11-10T07:44:29.448Z",
   "nfl_state": {
     "week": 10,
     "leg": 10,
@@ -18920,10 +18920,10 @@
           "adds": {
             "421": 1
           },
-          "drops": null,
           "consenter_ids": [
             1
           ],
+          "drops": null,
           "roster_ids": [
             1
           ],
@@ -18947,10 +18947,10 @@
           "adds": {
             "5947": 1
           },
-          "drops": null,
           "consenter_ids": [
             1
           ],
+          "drops": null,
           "roster_ids": [
             1
           ],
@@ -18974,12 +18974,12 @@
           "adds": {
             "3634": 1
           },
-          "drops": {
-            "4892": 1
-          },
           "consenter_ids": [
             1
           ],
+          "drops": {
+            "4892": 1
+          },
           "roster_ids": [
             1
           ],
@@ -18999,10 +18999,10 @@
           "adds": {
             "11435": 2
           },
-          "drops": null,
           "consenter_ids": [
             2
           ],
+          "drops": null,
           "roster_ids": [
             2
           ],
@@ -19022,12 +19022,12 @@
           "adds": {
             "4943": 4
           },
-          "drops": {
-            "5854": 4
-          },
           "consenter_ids": [
             4
           ],
+          "drops": {
+            "5854": 4
+          },
           "roster_ids": [
             4
           ],
@@ -19047,10 +19047,10 @@
           "adds": {
             "5001": 5
           },
-          "drops": null,
           "consenter_ids": [
             5
           ],
+          "drops": null,
           "roster_ids": [
             5
           ],
@@ -19070,10 +19070,10 @@
           "adds": {
             "11625": 6
           },
-          "drops": null,
           "consenter_ids": [
             6
           ],
+          "drops": null,
           "roster_ids": [
             6
           ],
@@ -19093,12 +19093,12 @@
           "adds": {
             "2505": 3
           },
-          "drops": {
-            "BAL": 3
-          },
           "consenter_ids": [
             3
           ],
+          "drops": {
+            "BAL": 3
+          },
           "roster_ids": [
             3
           ],
@@ -19118,12 +19118,12 @@
           "adds": {
             "5854": 4
           },
-          "drops": {
-            "13285": 4
-          },
           "consenter_ids": [
             4
           ],
+          "drops": {
+            "13285": 4
+          },
           "roster_ids": [
             4
           ],
@@ -19143,12 +19143,12 @@
           "adds": {
             "9225": 5
           },
-          "drops": {
-            "5844": 5
-          },
           "consenter_ids": [
             5
           ],
+          "drops": {
+            "5844": 5
+          },
           "roster_ids": [
             5
           ],
@@ -19168,12 +19168,12 @@
           "adds": {
             "CAR": 5
           },
-          "drops": {
-            "TB": 5
-          },
           "consenter_ids": [
             5
           ],
+          "drops": {
+            "TB": 5
+          },
           "roster_ids": [
             5
           ],
@@ -19193,12 +19193,12 @@
           "adds": {
             "6804": 7
           },
-          "drops": {
-            "5947": 7
-          },
           "consenter_ids": [
             7
           ],
+          "drops": {
+            "5947": 7
+          },
           "roster_ids": [
             7
           ],
@@ -19218,12 +19218,12 @@
           "adds": {
             "7571": 8
           },
-          "drops": {
-            "11370": 8
-          },
           "consenter_ids": [
             8
           ],
+          "drops": {
+            "11370": 8
+          },
           "roster_ids": [
             8
           ],
@@ -19243,12 +19243,12 @@
           "adds": {
             "10213": 2
           },
-          "drops": {
-            "11583": 2
-          },
           "consenter_ids": [
             2
           ],
+          "drops": {
+            "11583": 2
+          },
           "roster_ids": [
             2
           ],

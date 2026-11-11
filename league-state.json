@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-11-11T10:28:48.651Z",
+  "synced_at": "2026-11-11T14:14:48.709Z",
   "nfl_state": {
     "week": 10,
     "leg": 10,
@@ -86,10 +86,11 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
+    "last_message_id": "1426213682869698560",
+    "shard": 462,
     "season": "2026",
-    "last_message_id": "1426157319493812224",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -240,17 +241,16 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "shard": 462,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794384910990,
+    "last_message_time": 1794398349067,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1395522511403220992",
+    "last_read_id": null,
     "league_id": "1395522507427024896",
     "previous_league_id": null,
     "roster_positions": [
@@ -445,12 +445,10 @@
         "8167",
         "9224",
         "BAL",
-        "CIN",
-        "KC"
+        "CIN"
       ],
       "reserve": [
-        "12533",
-        "7611"
+        "12533"
       ],
       "roster_id": 1,
       "settings": {
@@ -478,7 +476,7 @@
         "11646",
         "8146",
         "11792",
-        "CIN"
+        "BAL"
       ],
       "taxi": null
     },
@@ -11933,8 +11931,7 @@
             "8167",
             "9224",
             "BAL",
-            "CIN",
-            "KC"
+            "CIN"
           ],
           "roster_id": 1,
           "custom_points": null,
@@ -11949,7 +11946,7 @@
             "11646",
             "8146",
             "11792",
-            "CIN"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -11981,8 +11978,7 @@
             "12533": 0,
             "13281": 0,
             "BAL": 0,
-            "CIN": 0,
-            "KC": 0
+            "CIN": 0
           }
         },
         {
@@ -12640,8 +12636,7 @@
             "8167",
             "9224",
             "BAL",
-            "CIN",
-            "KC"
+            "CIN"
           ],
           "roster_id": 1,
           "custom_points": null,
@@ -12656,7 +12651,7 @@
             "11646",
             "8146",
             "11792",
-            "CIN"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -12688,8 +12683,7 @@
             "12533": 0,
             "13281": 0,
             "BAL": 0,
-            "CIN": 0,
-            "KC": 0
+            "CIN": 0
           }
         },
         {
@@ -13347,8 +13341,7 @@
             "8167",
             "9224",
             "BAL",
-            "CIN",
-            "KC"
+            "CIN"
           ],
           "roster_id": 1,
           "custom_points": null,
@@ -13363,7 +13356,7 @@
             "11646",
             "8146",
             "11792",
-            "CIN"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -13395,8 +13388,7 @@
             "12533": 0,
             "13281": 0,
             "BAL": 0,
-            "CIN": 0,
-            "KC": 0
+            "CIN": 0
           }
         },
         {
@@ -14054,8 +14046,7 @@
             "8167",
             "9224",
             "BAL",
-            "CIN",
-            "KC"
+            "CIN"
           ],
           "roster_id": 1,
           "custom_points": null,
@@ -14070,7 +14061,7 @@
             "11646",
             "8146",
             "11792",
-            "CIN"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -14102,8 +14093,7 @@
             "12533": 0,
             "13281": 0,
             "BAL": 0,
-            "CIN": 0,
-            "KC": 0
+            "CIN": 0
           }
         },
         {
@@ -14761,8 +14751,7 @@
             "8167",
             "9224",
             "BAL",
-            "CIN",
-            "KC"
+            "CIN"
           ],
           "roster_id": 1,
           "custom_points": null,
@@ -14777,7 +14766,7 @@
             "11646",
             "8146",
             "11792",
-            "CIN"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -14809,8 +14798,7 @@
             "12533": 0,
             "13281": 0,
             "BAL": 0,
-            "CIN": 0,
-            "KC": 0
+            "CIN": 0
           }
         },
         {
@@ -15468,8 +15456,7 @@
             "8167",
             "9224",
             "BAL",
-            "CIN",
-            "KC"
+            "CIN"
           ],
           "roster_id": 1,
           "custom_points": null,
@@ -15484,7 +15471,7 @@
             "11646",
             "8146",
             "11792",
-            "CIN"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -15516,8 +15503,7 @@
             "12533": 0,
             "13281": 0,
             "BAL": 0,
-            "CIN": 0,
-            "KC": 0
+            "CIN": 0
           }
         },
         {
@@ -16175,8 +16161,7 @@
             "8167",
             "9224",
             "BAL",
-            "CIN",
-            "KC"
+            "CIN"
           ],
           "roster_id": 1,
           "custom_points": null,
@@ -16191,7 +16176,7 @@
             "11646",
             "8146",
             "11792",
-            "CIN"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -16223,8 +16208,7 @@
             "12533": 0,
             "13281": 0,
             "BAL": 0,
-            "CIN": 0,
-            "KC": 0
+            "CIN": 0
           }
         },
         {
@@ -16882,8 +16866,7 @@
             "8167",
             "9224",
             "BAL",
-            "CIN",
-            "KC"
+            "CIN"
           ],
           "roster_id": 1,
           "custom_points": null,
@@ -16898,7 +16881,7 @@
             "11646",
             "8146",
             "11792",
-            "CIN"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -16930,8 +16913,7 @@
             "12533": 0,
             "13281": 0,
             "BAL": 0,
-            "CIN": 0,
-            "KC": 0
+            "CIN": 0
           }
         },
         {
@@ -17589,8 +17571,7 @@
             "8167",
             "9224",
             "BAL",
-            "CIN",
-            "KC"
+            "CIN"
           ],
           "roster_id": 1,
           "custom_points": null,
@@ -17605,7 +17586,7 @@
             "11646",
             "8146",
             "11792",
-            "CIN"
+            "BAL"
           ],
           "starters_points": [
             0,
@@ -17637,8 +17618,7 @@
             "12533": 0,
             "13281": 0,
             "BAL": 0,
-            "CIN": 0,
-            "KC": 0
+            "CIN": 0
           }
         },
         {
@@ -22769,7 +22749,31 @@
     },
     {
       "week": 10,
-      "data": []
+      "data": [
+        {
+          "status": "complete",
+          "type": "free_agent",
+          "metadata": null,
+          "created": 1794398349039,
+          "settings": null,
+          "leg": 10,
+          "draft_picks": [],
+          "creator": "1126024356972437504",
+          "transaction_id": "1426213682756460544",
+          "adds": null,
+          "drops": {
+            "KC": 1
+          },
+          "consenter_ids": [
+            1
+          ],
+          "roster_ids": [
+            1
+          ],
+          "status_updated": 1794398349039,
+          "waiver_budget": []
+        }
+      ]
     },
     {
       "week": 11,

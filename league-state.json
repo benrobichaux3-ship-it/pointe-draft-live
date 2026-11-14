@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-11-14T10:28:04.852Z",
+  "synced_at": "2026-11-14T10:32:04.852Z",
   "nfl_state": {
     "week": 10,
     "leg": 10,
@@ -87,6 +87,10 @@
     "avatar": null,
     "company_id": null,
     "league_id": "1395522507427024896",
+    "shard": 462,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -237,10 +241,6 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 462,
-    "sport": "nfl",
     "last_message_id": "1426775090053271552",
     "last_author_avatar": null,
     "last_author_display_name": "sys",

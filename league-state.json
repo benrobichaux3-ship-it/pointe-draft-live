@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-11-25T00:28:27.851Z",
+  "synced_at": "2026-11-25T07:24:27.868Z",
   "nfl_state": {
     "week": 12,
     "season_type": "regular",
@@ -87,6 +87,10 @@
     "avatar": null,
     "company_id": null,
     "league_id": "1395522507427024896",
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 462,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -237,12 +241,7 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 462,
-    "sport": "nfl",
     "last_message_id": "1431048886713065472",
-    "draft_id": "1395522511403220992",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -251,6 +250,7 @@
     "last_message_text_map": null,
     "last_message_time": 1795551151496,
     "last_pinned_message_id": "1430626142603186176",
+    "draft_id": "1395522511403220992",
     "last_read_id": null,
     "previous_league_id": null,
     "roster_positions": [

@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-11-26T13:58:56.744Z",
+  "synced_at": "2026-11-26T14:16:56.747Z",
   "nfl_state": {
     "week": 12,
     "leg": 12,
@@ -332,7 +332,7 @@
       "league_id": "1395522507427024896",
       "metadata": {
         "allow_pn": "on",
-        "avatar": "https://sleepercdn.com/uploads/0d951a4ef4bd1417822ab28712af5992.jpg",
+        "avatar": "https://sleepercdn.com/images/v4/avatars/avatar_default_blue.webp",
         "mention_pn": "on"
       },
       "settings": null,

@@ -3,7 +3,7 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-11-26T10:32:56.921Z",
+  "synced_at": "2026-11-26T13:22:56.745Z",
   "nfl_state": {
     "week": 12,
     "leg": 12,
@@ -87,10 +87,6 @@
     "avatar": null,
     "company_id": null,
     "league_id": "1395522507427024896",
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "shard": 462,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -241,20 +237,22 @@
       "st_ff": 1,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1431580472827215872",
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "shard": 462,
+    "last_message_id": "1431669353601843200",
+    "draft_id": "1395522511403220992",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795677891502,
+    "last_message_time": 1795699082331,
     "last_pinned_message_id": "1430626142603186176",
     "last_read_id": null,
-    "draft_id": "1395522511403220992",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
     "roster_positions": [
       "QB",
@@ -275,6 +273,8 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -318,7 +318,8 @@
       "metadata": {
         "allow_pn": "on",
         "archived": "off",
-        "mention_pn": "on"
+        "mention_pn": "on",
+        "team_name": "1–2-3-Packers!"
       },
       "settings": null,
       "user_id": "978083733284720640"

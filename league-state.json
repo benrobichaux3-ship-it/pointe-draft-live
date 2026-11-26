@@ -3,12 +3,12 @@
   "league_id": "1395522507427024896",
   "season": "2026",
   "status": "in_season",
-  "synced_at": "2026-11-26T07:28:27.831Z",
+  "synced_at": "2026-11-26T09:40:41.845Z",
   "nfl_state": {
     "week": 12,
+    "leg": 12,
     "season_type": "regular",
     "season": "2026",
-    "leg": 12,
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -23323,6 +23323,41 @@
             8
           ],
           "status_updated": 1795594495792,
+          "waiver_budget": []
+        },
+        {
+          "status": "complete",
+          "type": "trade",
+          "metadata": {
+            "notes": "Your trade was processed successfully!",
+            "poll_id": "1430626142527696896",
+            "veto_msg_id": "1430626142603186176"
+          },
+          "created": 1795403838372,
+          "settings": null,
+          "leg": 11,
+          "draft_picks": [],
+          "creator": "1395850093722112000",
+          "transaction_id": "1430431010683617280",
+          "adds": {
+            "4035": 10,
+            "7594": 8,
+            "12512": 10
+          },
+          "consenter_ids": [
+            8,
+            10
+          ],
+          "drops": {
+            "4035": 8,
+            "7594": 10,
+            "12512": 8
+          },
+          "roster_ids": [
+            8,
+            10
+          ],
+          "status_updated": 1795677891466,
           "waiver_budget": []
         },
         {
